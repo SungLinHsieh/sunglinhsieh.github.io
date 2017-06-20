@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Utility function of lexicographic preference"
+date:   2015-02-15
+excerpt: "Prove that there is no utility function on Lexicographic preference over real numbers"
+tag:
+- Econ 
+comments: true
+---
+
 Lexicographic preference in \\(\mathbb{R}^2\\) is as following:
 
 \\((a_1, a_2) \succ (b_1, b_2)\\) if and only if \\(a_1> b_1\\)  or \\(a_1=b_1\\) and \\(a_2 > b_2\\) .
