@@ -1,0 +1,25 @@
+<p>Lexicographic preference in $\mathbb{R}^2$ is as following:</p>
+
+<p>$(a_1, a_2) \succ (b_1, b_2)$ if and only if $a_1&gt; b_1$  or $a_1=b_1$ and $a_2 &gt; b_2$ .</p>
+
+<p>For example, $(1, 0) \succ (0, 5)$ and $(1, 1) \succ (1, 0)$ .</p>
+
+<p>Although lexicographic preference satisfies</p>
+
+<ol>
+  <li>Complete</li>
+  <li>Transitive
+it does not have numerical representation. In other world, there is not any function $\mathbb{R}^2 \rightarrow \mathbb{R}$  can represent it.</li>
+</ol>
+
+<p>Here is the proof:</p>
+
+<p>First of all, we restrict the domain to $[0 ,1] \times [0,1]$ only. We are going to proof that the utility is not exist even in this subset.</p>
+
+<p>Suppose there is an utility function $U: \mathbb{R}^2 \rightarrow \mathbb{R}$ represents lexicographic preference. We construct a function $r(\cdot): \mathbb{R} \rightarrow \mathbb{Q}$ . For every $x \in \mathbb{R}$, we choose a rational number $r(x)$ satisfies $U((x,0)) &lt; r(x) &lt; U((x,1))$. According to the dense of real number, the rational number must exists.</p>
+
+<p>Moreover, if $x_1,x_2 \in \mathbb{R}$ and $0 \leq x_1 &lt; x_2 \leq1$ . Then $r(x_1) &lt; U((x_1,1)) &lt; U((x_2,0)) &lt; r(x_2)$  . To sum up, $x_1&lt; x_2$ implies $r(x_1) &lt; r(x_2)$. It also implies that $r(\cdot)$ is a one-to -one function. It is a contradiction because ration number and real number do not share the same cardinal number.</p>
+
+<p>Related question:</p>
+
+<p>Utility function of this kind of preference on $\mathbb{R}$. How about on $\mathbb{Q}$?</p>
