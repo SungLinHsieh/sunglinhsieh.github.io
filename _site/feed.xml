@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-06-20T02:39:43-07:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">Try Harder</title><subtitle>It should be a description.</subtitle><entry><title type="html">Moon Jekyll Theme</title><link href="https://sunglinhsieh.github.io//moon-theme/" rel="alternate" type="text/html" title="Moon Jekyll Theme" /><published>2016-04-06T00:00:00-07:00</published><updated>2016-04-06T00:00:00-07:00</updated><id>https://sunglinhsieh.github.io//moon-theme</id><content type="html" xml:base="https://sunglinhsieh.github.io//moon-theme/">&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png&quot; alt=&quot;Moon Homepage&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-06-20T02:42:41-07:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">Try Harder</title><subtitle>It should be a description.</subtitle><entry><title type="html">Moon Jekyll Theme</title><link href="https://sunglinhsieh.github.io//moon-theme/" rel="alternate" type="text/html" title="Moon Jekyll Theme" /><published>2016-04-06T00:00:00-07:00</published><updated>2016-04-06T00:00:00-07:00</updated><id>https://sunglinhsieh.github.io//moon-theme</id><content type="html" xml:base="https://sunglinhsieh.github.io//moon-theme/">&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png&quot; alt=&quot;Moon Homepage&quot; /&gt;&lt;/p&gt;
 
 &lt;center&gt;&lt;b&gt;Moon&lt;/b&gt; is a minimal, one column jekyll theme.&lt;/center&gt;
 
@@ -323,12 +323,12 @@ mathjax: true
 &lt;h2 id=&quot;高中法-積化和差&quot;&gt;高中法: 積化和差&lt;/h2&gt;
 &lt;p&gt;首先複習一下積化和差，這裡會用到。
 \[2\cos a \sin b = \sin(a+b) - \sin(a-b)\]
-用上面的公式可以得到1：
-\[\begin{align&lt;em&gt;} 
-&amp;amp; \sum_{m=1}^{n-1} \cos mx \nonumber &lt;br /&gt;
- = &amp;amp; \frac{1}{\sin(\frac{x}{2})} \sum_{m=1}^{n-1} \cos mx \sin(\frac{x}{2})
- \end{align&lt;/em&gt;}
- \]&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">希望這個系列會持續下去，這裡希望可以記錄一些有趣的高中數學題目
+用上面的公式可以得到：
+&lt;script type=&quot;math/tex&quot;&gt;% &lt;![CDATA[
+\begin{eqnarray*} 
+&amp; \sum_{m=1}^{n-1} \cos mx\\
+ = &amp; \frac{1}{\sin(\frac{x}{2})} \sum_{m=1}^{n-1} \cos mx \sin(\frac{x}{2})
+ \end{eqnarray*} %]]&gt;&lt;/script&gt;&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">希望這個系列會持續下去，這裡希望可以記錄一些有趣的高中數學題目
 這次要講的是台大物理2012推甄題</summary></entry><entry><title type="html">Countable and Uncountable</title><link href="https://sunglinhsieh.github.io//Countable-and-Uncountable/" rel="alternate" type="text/html" title="Countable and Uncountable" /><published>2015-02-25T00:00:00-08:00</published><updated>2015-02-25T00:00:00-08:00</updated><id>https://sunglinhsieh.github.io//Countable-and-Uncountable</id><content type="html" xml:base="https://sunglinhsieh.github.io//Countable-and-Uncountable/">&lt;p&gt;Can two infinite numbers be compared?&lt;/p&gt;
 
 &lt;p&gt;We start form finite numbers. If there are two baskets of fruits. How can we say the number of the fruits are the same. There are two of the possible methods we may use:&lt;/p&gt;
