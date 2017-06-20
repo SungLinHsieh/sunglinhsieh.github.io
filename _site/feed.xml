@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-06-20T01:37:03-07:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">Try Harder</title><subtitle>It should be a description.</subtitle><entry><title type="html">Moon Jekyll Theme</title><link href="https://sunglinhsieh.github.io//moon-theme/" rel="alternate" type="text/html" title="Moon Jekyll Theme" /><published>2016-04-06T00:00:00-07:00</published><updated>2016-04-06T00:00:00-07:00</updated><id>https://sunglinhsieh.github.io//moon-theme</id><content type="html" xml:base="https://sunglinhsieh.github.io//moon-theme/">&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png&quot; alt=&quot;Moon Homepage&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-06-20T01:57:18-07:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">Try Harder</title><subtitle>It should be a description.</subtitle><entry><title type="html">Moon Jekyll Theme</title><link href="https://sunglinhsieh.github.io//moon-theme/" rel="alternate" type="text/html" title="Moon Jekyll Theme" /><published>2016-04-06T00:00:00-07:00</published><updated>2016-04-06T00:00:00-07:00</updated><id>https://sunglinhsieh.github.io//moon-theme</id><content type="html" xml:base="https://sunglinhsieh.github.io//moon-theme/">&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png&quot; alt=&quot;Moon Homepage&quot; /&gt;&lt;/p&gt;
 
 &lt;center&gt;&lt;b&gt;Moon&lt;/b&gt; is a minimal, one column jekyll theme.&lt;/center&gt;
 
@@ -316,7 +316,39 @@ mathjax: true
       \vdots \\
       y_n
     \end{array} \right)
-\end{align*} %]]&gt;&lt;/script&gt;</content><category term="markdown" /><category term="mathjax" /><category term="example" /><category term="test" /><category term="jekyll" /><summary type="html">MathJax Example for Moon Jekyll Theme.</summary></entry><entry><title type="html">Utility function of lexicographic preference</title><link href="https://sunglinhsieh.github.io//Utility-function-of-lexicographic-preference/" rel="alternate" type="text/html" title="Utility function of lexicographic preference" /><published>2015-02-15T00:00:00-08:00</published><updated>2015-02-15T00:00:00-08:00</updated><id>https://sunglinhsieh.github.io//Utility-function-of-lexicographic-preference</id><content type="html" xml:base="https://sunglinhsieh.github.io//Utility-function-of-lexicographic-preference/">&lt;p&gt;Lexicographic preference in \(\mathbb{R}^2\) is as following:&lt;/p&gt;
+\end{align*} %]]&gt;&lt;/script&gt;</content><category term="markdown" /><category term="mathjax" /><category term="example" /><category term="test" /><category term="jekyll" /><summary type="html">MathJax Example for Moon Jekyll Theme.</summary></entry><entry><title type="html">Countable and Uncountable</title><link href="https://sunglinhsieh.github.io//Countable-and-Uncountable/" rel="alternate" type="text/html" title="Countable and Uncountable" /><published>2015-02-25T00:00:00-08:00</published><updated>2015-02-25T00:00:00-08:00</updated><id>https://sunglinhsieh.github.io//Countable-and-Uncountable</id><content type="html" xml:base="https://sunglinhsieh.github.io//Countable-and-Uncountable/">&lt;p&gt;Can two infinite numbers be compared?&lt;/p&gt;
+
+&lt;p&gt;We start form finite numbers. If there are two baskets of fruits. How can we say the number of the fruits are the same. There are two of the possible methods we may use:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Count the number and verity the difference.&lt;/li&gt;
+  &lt;li&gt;Take one fruit from each basket every time and check if they are empty in the same time.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The first method is helpless for our count for infinite number because we do not know how to represent the number. On the other hand, the second methods does not quite fit what we want because a basket with infinite fruits will never empty. However, we modify this method. We call two infinite numbers, A and B (i.e. natural numbers, odd numbers, rational numbers, real numbers), having the same cardinal numbers if there is a function  \(f: A \rightarrow B\) satisfies&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;one-to-one: If \(f(a)=f(b)\), then \(a=b\).&lt;/li&gt;
+  &lt;li&gt;onto: every element in \(B\), there at least one element in \(A\) correspond to it.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;By the way, a one-to-one function is called infective function; a onto function is called surjective function; a one-to-one and onto function is called bijective function.&lt;/p&gt;
+
+&lt;p&gt;For example, the cardinal numbers of natural number and even number are the same because \(f(x)=2x\) links all elements in two sets.&lt;/p&gt;
+
+&lt;p&gt;With this method, we can verity the cardinal numbers of rational number and natural number is also the same. We call all of these numbers as same as natural number countable number.&lt;/p&gt;
+
+&lt;p&gt;However, the real number is “more” than the natural number.&lt;/p&gt;
+
+&lt;p&gt;pf:&lt;/p&gt;
+
+&lt;p&gt;If real number is as much as natural number, we can arrange all real numbers an index: \(a_1,a_2,\ldots\). We can get a list of real number. If this mapping is bijective, we can not find any real number else which is not in this list. However, we generate a new real number,&lt;/p&gt;
+
+&lt;p&gt;Its \(i^{th}\) digits after decimal point is 0 if the number in same place of \(a_i\) is 1.
+ Its \(i^{th}\) digits after decimal point is 1 if the number in same place of \(a_i\) is 0.
+this new real number is different at least one digits after decimal point to all numbers in the \(a_i\) list. In other word, we can not construct such a list. It is the end of the proof.&lt;/p&gt;
+
+&lt;p&gt;Since the real number is “more” than natural number, we give it a catagory with is different from natural number. We call it uncountable number.&lt;/p&gt;</content><category term="math" /><summary type="html">Can two infinite numbers be compared?</summary></entry><entry><title type="html">Utility function of lexicographic preference</title><link href="https://sunglinhsieh.github.io//Utility-function-of-lexicographic-preference/" rel="alternate" type="text/html" title="Utility function of lexicographic preference" /><published>2015-02-15T00:00:00-08:00</published><updated>2015-02-15T00:00:00-08:00</updated><id>https://sunglinhsieh.github.io//Utility-function-of-lexicographic-preference</id><content type="html" xml:base="https://sunglinhsieh.github.io//Utility-function-of-lexicographic-preference/">&lt;p&gt;Lexicographic preference in \(\mathbb{R}^2\) is as following:&lt;/p&gt;
 
 &lt;p&gt;\((a_1, a_2) \succ (b_1, b_2)\) if and only if \(a_1&amp;gt; b_1\)  or \(a_1=b_1\) and \(a_2 &amp;gt; b_2\) .&lt;/p&gt;
 
