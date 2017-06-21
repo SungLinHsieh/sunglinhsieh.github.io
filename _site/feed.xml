@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-06-20T02:42:41-07:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">Try Harder</title><subtitle>It should be a description.</subtitle><entry><title type="html">Moon Jekyll Theme</title><link href="https://sunglinhsieh.github.io//moon-theme/" rel="alternate" type="text/html" title="Moon Jekyll Theme" /><published>2016-04-06T00:00:00-07:00</published><updated>2016-04-06T00:00:00-07:00</updated><id>https://sunglinhsieh.github.io//moon-theme</id><content type="html" xml:base="https://sunglinhsieh.github.io//moon-theme/">&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png&quot; alt=&quot;Moon Homepage&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-06-20T22:06:17-07:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">Try Harder</title><subtitle>It should be a description.</subtitle><entry><title type="html">Moon Jekyll Theme</title><link href="https://sunglinhsieh.github.io//moon-theme/" rel="alternate" type="text/html" title="Moon Jekyll Theme" /><published>2016-04-06T00:00:00-07:00</published><updated>2016-04-06T00:00:00-07:00</updated><id>https://sunglinhsieh.github.io//moon-theme</id><content type="html" xml:base="https://sunglinhsieh.github.io//moon-theme/">&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png&quot; alt=&quot;Moon Homepage&quot; /&gt;&lt;/p&gt;
 
 &lt;center&gt;&lt;b&gt;Moon&lt;/b&gt; is a minimal, one column jekyll theme.&lt;/center&gt;
 
@@ -316,7 +316,7 @@ mathjax: true
       \vdots \\
       y_n
     \end{array} \right)
-\end{align*} %]]&gt;&lt;/script&gt;</content><category term="markdown" /><category term="mathjax" /><category term="example" /><category term="test" /><category term="jekyll" /><summary type="html">MathJax Example for Moon Jekyll Theme.</summary></entry><entry><title type="html">高中數學推甄題 1</title><link href="https://sunglinhsieh.github.io//%E9%AB%98%E4%B8%AD%E6%95%B8%E5%AD%B8%E6%8E%A8%E7%94%84%E9%A1%8C-1/" rel="alternate" type="text/html" title="高中數學推甄題 1" /><published>2015-04-11T00:00:00-07:00</published><updated>2015-04-11T00:00:00-07:00</updated><id>https://sunglinhsieh.github.io//高中數學推甄題-1</id><content type="html" xml:base="https://sunglinhsieh.github.io//%E9%AB%98%E4%B8%AD%E6%95%B8%E5%AD%B8%E6%8E%A8%E7%94%84%E9%A1%8C-1/">&lt;p&gt;希望這個系列會持續下去，這裡希望可以記錄一些有趣的高中數學題目
+\end{align*} %]]&gt;&lt;/script&gt;</content><category term="markdown" /><category term="mathjax" /><category term="example" /><category term="test" /><category term="jekyll" /><summary type="html">MathJax Example for Moon Jekyll Theme.</summary></entry><entry><title type="html">高中數學推甄題 1</title><link href="https://sunglinhsieh.github.io//%E9%AB%98%E4%B8%AD%E6%95%B8%E5%AD%B8%E6%8E%A8%E7%94%84%E9%A1%8C-1/" rel="alternate" type="text/html" title="高中數學推甄題 1" /><published>2015-04-11T00:00:00-07:00</published><updated>2015-04-11T00:00:00-07:00</updated><id>https://sunglinhsieh.github.io//高中數學推甄題-1</id><content type="html" xml:base="https://sunglinhsieh.github.io//%E9%AB%98%E4%B8%AD%E6%95%B8%E5%AD%B8%E6%8E%A8%E7%94%84%E9%A1%8C-1/">&lt;p&gt;希望這個系列會持續下去，這裡希望可以記錄一些有趣的高中數學題目。
 這次要講的是台大物理2012推甄題
 \( \sum_{m=1}^{n-1} \cos mx = ?\)&lt;/p&gt;
 
@@ -324,11 +324,33 @@ mathjax: true
 &lt;p&gt;首先複習一下積化和差，這裡會用到。
 \[2\cos a \sin b = \sin(a+b) - \sin(a-b)\]
 用上面的公式可以得到：
-&lt;script type=&quot;math/tex&quot;&gt;% &lt;![CDATA[
-\begin{eqnarray*} 
-&amp; \sum_{m=1}^{n-1} \cos mx\\
- = &amp; \frac{1}{\sin(\frac{x}{2})} \sum_{m=1}^{n-1} \cos mx \sin(\frac{x}{2})
- \end{eqnarray*} %]]&gt;&lt;/script&gt;&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">希望這個系列會持續下去，這裡希望可以記錄一些有趣的高中數學題目
+\[\begin{align} 
+ &amp;amp;\sum_{m=1}^{n-1} \cos mx \\
+ = &amp;amp; \frac{1}{\sin(\frac{x}{2})} \sum_{m=1}^{n-1} \cos mx \sin(\frac{x}{2}) \\
+ = &amp;amp; \frac{1}{2 \sin(\frac{x}{2})} \sum_{m=1}^{n-1}[ \sin(\frac{2m+1}{2}x) - \sin(\frac{2m-1}{2}x)]\\
+ = &amp;amp; \frac{1}{2 \sin(\frac{x}{2})} (\sin(\frac{2n-1}{2}x) - \sin(\frac{1}{2}x))\\
+ 	= &amp;amp; \frac{1}{2 \sin(\frac{x}{2})} (2 \cos(\frac{n}{2}x) \sin(\frac{n-1}{2}x))\\
+	= &amp;amp; \frac{\cos (\frac{n}{2}x) \sin (\frac{n-1}{2}x)}{\sin(\frac{x}{2})}\\
+ \end{align}\]
+ 即為所求。&lt;/p&gt;
+
+&lt;h2 id=&quot;大學法-尤拉公式&quot;&gt;大學法: 尤拉公式&lt;/h2&gt;
+&lt;p&gt;由尤拉公式(\( e^{ix} = \cos x + i \sin x \) )，加上一些式子的整理，我們可以得到以下的式子。
+\[
+\begin{align}
+	&amp;amp;\sum_{m=1}^{n-1} \cos mx \\
+	= &amp;amp; Re( \sum_{m=1}^{n-1} e^{imx})\\
+	= &amp;amp; Re(\frac{e^{ix}(e^{i(n-1)x}-1)}{1-e^{ix}})\\
+	= &amp;amp; Re(\frac{e^{inx} - e^{ix}}{1- e^{ix}})\\
+	= &amp;amp; Re(\frac{e^{i \frac{n+1}{2}x}}{e^{i\frac{x}{2}}} \frac{e^{i\frac{n-1}{2}x}-e^{-i\frac{n-1}{2}x}}{e^{i\frac{1}{2}x}- e^{-i\frac{1}{2}x}} \\
+	= &amp;amp; Re(\frac{e^{i \frac{n+1}{2}x}}{e^{i\frac{x}{2}}} \frac{(e^{i\frac{n-1}{2}x}-e^{-i\frac{n-1}{2}x})/2i}{(e^{i\frac{1}{2}x}- e^{-i\frac{1}{2}x})/2i}) \\
+	= &amp;amp; Re(\frac{e^{i \frac{n+1}{2}x}}{e^{i\frac{x}{2}}} \frac{\sin(\frac{n-1}{2}x)}{\sin(\frac{x}{2})})\\
+	= &amp;amp; \frac{\sin(\frac{n-1}{2}x)}{\sin(\frac{x}{2})} Re(e^{i\frac{n}{2}x}) \\
+	= &amp;amp; \frac{\sin(\frac{n-1}{2}x)}{\sin(\frac{x}{2})} \cos(\frac{n}{2}x) \\
+	= &amp;amp; \frac{\cos (\frac{n}{2}x) \sin (\frac{n-1}{2}x)}{\sin(\frac{x}{2})} 
+\end{align}
+\]
+其中\(Re(z)\)為取複數的實部。&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">希望這個系列會持續下去，這裡希望可以記錄一些有趣的高中數學題目
 這次要講的是台大物理2012推甄題</summary></entry><entry><title type="html">Countable and Uncountable</title><link href="https://sunglinhsieh.github.io//Countable-and-Uncountable/" rel="alternate" type="text/html" title="Countable and Uncountable" /><published>2015-02-25T00:00:00-08:00</published><updated>2015-02-25T00:00:00-08:00</updated><id>https://sunglinhsieh.github.io//Countable-and-Uncountable</id><content type="html" xml:base="https://sunglinhsieh.github.io//Countable-and-Uncountable/">&lt;p&gt;Can two infinite numbers be compared?&lt;/p&gt;
 
 &lt;p&gt;We start form finite numbers. If there are two baskets of fruits. How can we say the number of the fruits are the same. There are two of the possible methods we may use:&lt;/p&gt;
