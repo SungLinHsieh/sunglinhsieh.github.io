@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-06-21T06:58:38-07:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">Try Harder</title><subtitle>It should be a description.</subtitle><entry><title type="html">Moon Jekyll Theme</title><link href="https://sunglinhsieh.github.io//moon-theme/" rel="alternate" type="text/html" title="Moon Jekyll Theme" /><published>2016-04-06T00:00:00-07:00</published><updated>2016-04-06T00:00:00-07:00</updated><id>https://sunglinhsieh.github.io//moon-theme</id><content type="html" xml:base="https://sunglinhsieh.github.io//moon-theme/">&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png&quot; alt=&quot;Moon Homepage&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-06-21T22:21:40-04:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">Try Harder</title><subtitle>It should be a description.</subtitle><entry><title type="html">Uncertain Demand</title><link href="https://sunglinhsieh.github.io//Uncertain-Demand/" rel="alternate" type="text/html" title="Uncertain Demand" /><published>2016-11-16T00:00:00-05:00</published><updated>2016-11-16T00:00:00-05:00</updated><id>https://sunglinhsieh.github.io//Uncertain-Demand</id><content type="html" xml:base="https://sunglinhsieh.github.io//Uncertain-Demand/">&lt;p&gt;This is a interesting question I got from the problem when I am taking macro theory.&lt;/p&gt;
+
+&lt;p&gt;There are multiple time periods in this model.&lt;/p&gt;
+
+&lt;p&gt;You are a firm. You are going to offer a price to the market.
+There is a reserving price in the market, which is drawn from a uniform distribution.
+This price would not change between each period.
+If the price you offer is higher than the reserving price, your demand is 0.
+Otherwise, you will get a fixed demand, x.
+The demand is fixed as long as your price is lower than the festering price.&lt;/p&gt;
+
+&lt;p&gt;What is your optimal strategy?&lt;/p&gt;
+
+&lt;p&gt;Roughly thinking, you are going to update the upper bound and lower bound of the uniform distribution and using the concept of bayesian probability to update your belief, and your optimal offer depends on the upper and lower bound.&lt;/p&gt;
+
+&lt;p&gt;Further, we can build a Bellman equation to solve this question.&lt;/p&gt;
+
+&lt;p&gt;The result so far is that if the difference of upper and lower bound is too small, the optimal price is your lower bound, like a safety choice.&lt;/p&gt;
+
+&lt;p&gt;When I am doing the comparison of  static, I found that increasing x (the amount of demand) would not affect his strategy, but as the beta increasing, the timing of using price other than the lower bound would be earlier.&lt;/p&gt;</content><category term="Econ" /><category term="Macro" /><category term="PhD" /><summary type="html">It is a interesting question I got from the problem when I taking macro theory.</summary></entry><entry><title type="html">Moon Jekyll Theme</title><link href="https://sunglinhsieh.github.io//moon-theme/" rel="alternate" type="text/html" title="Moon Jekyll Theme" /><published>2016-04-06T00:00:00-04:00</published><updated>2016-04-06T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//moon-theme</id><content type="html" xml:base="https://sunglinhsieh.github.io//moon-theme/">&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png&quot; alt=&quot;Moon Homepage&quot; /&gt;&lt;/p&gt;
 
 &lt;center&gt;&lt;b&gt;Moon&lt;/b&gt; is a minimal, one column jekyll theme.&lt;/center&gt;
 
@@ -147,7 +166,7 @@ feaure: http://example.com/some-image.png
 
 &lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
 
-&lt;p&gt;This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.&lt;/p&gt;</content><category term="jekyll" /><category term="moon" /><category term="blog" /><category term="about" /><category term="theme" /><summary type="html">Minimal, one column Jekyll theme for your blog.</summary></entry><entry><title type="html">Markdown Syntax</title><link href="https://sunglinhsieh.github.io//markdown-syntax/" rel="alternate" type="text/html" title="Markdown Syntax" /><published>2016-03-15T00:00:00-07:00</published><updated>2016-03-15T00:00:00-07:00</updated><id>https://sunglinhsieh.github.io//markdown-syntax</id><content type="html" xml:base="https://sunglinhsieh.github.io//markdown-syntax/">&lt;h2 id=&quot;html-elements&quot;&gt;HTML Elements&lt;/h2&gt;
+&lt;p&gt;This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.&lt;/p&gt;</content><category term="jekyll" /><category term="moon" /><category term="blog" /><category term="about" /><category term="theme" /><summary type="html">Minimal, one column Jekyll theme for your blog.</summary></entry><entry><title type="html">Markdown Syntax</title><link href="https://sunglinhsieh.github.io//markdown-syntax/" rel="alternate" type="text/html" title="Markdown Syntax" /><published>2016-03-15T00:00:00-04:00</published><updated>2016-03-15T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//markdown-syntax</id><content type="html" xml:base="https://sunglinhsieh.github.io//markdown-syntax/">&lt;h2 id=&quot;html-elements&quot;&gt;HTML Elements&lt;/h2&gt;
 
 &lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
 
@@ -275,13 +294,134 @@ feaure: http://example.com/some-image.png
 
 &lt;h2 id=&quot;notices&quot;&gt;Notices&lt;/h2&gt;
 
-&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; You can also add notices by appending &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;.notice&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt; to a paragraph.&lt;/p&gt;</content><category term="markdown" /><category term="syntax" /><category term="sample" /><category term="test" /><category term="jekyll" /><summary type="html">Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more.</summary></entry><entry><title type="html">A Post with a Video</title><link href="https://sunglinhsieh.github.io//video-post/" rel="alternate" type="text/html" title="A Post with a Video" /><published>2016-03-15T00:00:00-07:00</published><updated>2016-03-15T00:00:00-07:00</updated><id>https://sunglinhsieh.github.io//video-post</id><content type="html" xml:base="https://sunglinhsieh.github.io//video-post/">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/SU3kYxJmWuQ&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; You can also add notices by appending &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;.notice&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt; to a paragraph.&lt;/p&gt;</content><category term="markdown" /><category term="syntax" /><category term="sample" /><category term="test" /><category term="jekyll" /><summary type="html">Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more.</summary></entry><entry><title type="html">A Post with a Video</title><link href="https://sunglinhsieh.github.io//video-post/" rel="alternate" type="text/html" title="A Post with a Video" /><published>2016-03-15T00:00:00-04:00</published><updated>2016-03-15T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//video-post</id><content type="html" xml:base="https://sunglinhsieh.github.io//video-post/">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/SU3kYxJmWuQ&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
 
 &lt;p&gt;Video embeds are responsive and scale with the width of the main content block with the help of &lt;a href=&quot;http://fitvidsjs.com/&quot;&gt;FitVids&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Not sure if this only effects Kramdown or if it’s an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;iframe&amp;gt;&lt;/code&gt; tags and remove &lt;code class=&quot;highlighter-rouge&quot;&gt;allowfullscreen&lt;/code&gt;. Example below:&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;560&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;315&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;//www.youtube.com/embed/SU3kYxJmWuQ&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><category term="sample" /><category term="post" /><category term="video" /><summary type="html">Custom written post descriptions are the way to go... if you're not lazy.</summary></entry><entry><title type="html">三次多項式公式解</title><link href="https://sunglinhsieh.github.io//%E4%B8%89%E6%AC%A1%E5%A4%9A%E9%A0%85%E5%BC%8F%E5%85%AC%E5%BC%8F%E8%A7%A3/" rel="alternate" type="text/html" title="三次多項式公式解" /><published>2015-08-24T00:00:00-07:00</published><updated>2015-08-24T00:00:00-07:00</updated><id>https://sunglinhsieh.github.io//三次多項式公式解</id><content type="html" xml:base="https://sunglinhsieh.github.io//%E4%B8%89%E6%AC%A1%E5%A4%9A%E9%A0%85%E5%BC%8F%E5%85%AC%E5%BC%8F%E8%A7%A3/">&lt;p&gt;在講之前，先來問一個問題：&lt;/p&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;560&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;315&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;//www.youtube.com/embed/SU3kYxJmWuQ&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><category term="sample" /><category term="post" /><category term="video" /><summary type="html">Custom written post descriptions are the way to go... if you're not lazy.</summary></entry><entry><title type="html">高中數學推甄題 2005臺大物理</title><link href="https://sunglinhsieh.github.io//%E9%AB%98%E4%B8%AD%E6%95%B8%E5%AD%B8%E6%8E%A8%E7%94%84%E9%A1%8C-2005%E8%87%BA%E5%A4%A7%E7%89%A9%E7%90%86/" rel="alternate" type="text/html" title="高中數學推甄題 2005臺大物理" /><published>2015-10-26T00:00:00-04:00</published><updated>2015-10-26T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//高中數學推甄題-2005臺大物理</id><content type="html" xml:base="https://sunglinhsieh.github.io//%E9%AB%98%E4%B8%AD%E6%95%B8%E5%AD%B8%E6%8E%A8%E7%94%84%E9%A1%8C-2005%E8%87%BA%E5%A4%A7%E7%89%A9%E7%90%86/">&lt;p&gt;今天分享一題很奇妙的題目跟很誇張的解法，
+是台大物理2005年的題目。&lt;/p&gt;
+
+&lt;p&gt;當\(0 &amp;lt; x &amp;lt; \frac{\pi}{2}\)時，
+求\(\frac{2}{\sin x} + \frac{3}{\cos x}\)的最小值。&lt;/p&gt;
+
+&lt;p&gt;這題可怕的地方是，看起來就一臉柯西樣，但怎麼用都用不出來。
+最後我是在大陸的論壇上看到這個解法。&lt;/p&gt;
+
+&lt;h2 id=&quot;台大物理-2005&quot;&gt;台大物理 2005&lt;/h2&gt;
+
+&lt;p&gt;當\(0&amp;lt;x&amp;lt;\frac{\pi}{2}\)時，求\(\frac{2}{\sin x}+\frac{3}{\cos x}\)的最小值。&lt;/p&gt;
+
+&lt;p&gt;令\(k&amp;gt;0\)為待定係數。 則原式可以寫成
+\[
+\frac{1}{\sin x}+\frac{1}{\sin x}+k\sin^2 x+\frac{\frac{3}{2}}{\cos x}+\frac{\frac{3}{2}}{\cos x}+k \cos^2 x-k
+\]
+因此，我們就可以用算幾不等式得到
+\[
+\begin{align}
+	&amp;amp; \frac{1}{\sin x}+\frac{1}{\sin x}+k\sin^2 x+\frac{\frac{3}{2}}{\cos x}+\frac{\frac{3}{2}}{\cos x}+k \cos^2 x-k&lt;br /&gt;
+	\geq &amp;amp; 3 k^{\frac{1}{3}}+3 (\frac{3}{2})^{\frac{2}{3}}k^{\frac{1}{3}}-k
+\end{align}
+\]
+然而，而這裡的重點是，若等號要成立，我們必須要讓兩個算幾不等式都滿足，因此我們的\(k\)要滿足
+\[
+\begin{align}
+	k^{\frac{-1}{3}}&amp;amp;=\sin x&lt;br /&gt;
+	k^{\frac{-1}{3}}&amp;amp;=(\frac{3}{2})^{\frac{-1}{3}}\cos x
+\end{align}
+\]
+可以算出\(k=(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{3}{2}}\)，再代回\(\sin x,\cos x\)可以得到
+\[
+\begin{align}
+	\sin x &amp;amp;=(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{-1}{2}} &lt;br /&gt;
+	\cos x &amp;amp;=(\frac{2}{3})^{\frac{-1}{3}}(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{-1}{2}}
+\end{align}
+\]
+極值便等於
+\[
+\begin{align}
+	&amp;amp; \frac{2}{\sin x}+\frac{3}{\cos x}&lt;br /&gt;
+	=&amp;amp; 2 (1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{1}{2}}+ 3(\frac{2}{3})^{\frac{1}{3}}(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{1}{2}}&lt;br /&gt;
+	=&amp;amp; (2+ 2^{\frac{1}{3}}3^{\frac{2}{3}})\cdot(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{1}{2}}&lt;br /&gt;
+	=&amp;amp; (2^\frac{2}{3}+3^{\frac{2}{3}})\cdot 2^{\frac{1}{3}}\cdot(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{1}{2}}&lt;br /&gt;
+	=&amp;amp; (2^\frac{2}{3}+3^{\frac{2}{3}})\cdot (2^\frac{2}{3}+3^{\frac{2}{3}})^{\frac{1}{2}}&lt;br /&gt;
+	= &amp;amp; (2^\frac{2}{3}+3^{\frac{2}{3}})^{\frac{3}{2}}
+\end{align}
+\]
+用一樣的推論，給定\(a,b &amp;gt;0\)時，
+\[
+\min_x [\frac{a}{\sin x}+\frac{b}{\cos x}]=(a^{\frac{2}{3}}+b^{\frac{2}{3}})^{\frac{3}{2}}
+\]&lt;/p&gt;
+
+&lt;p&gt;###用微積分驗證答案&lt;/p&gt;
+
+&lt;p&gt;原式對\(x\)微分可以得到
+\[
+-\frac{a \cos x}{\sin^2 x}+\frac{b\sin x}{\cos^2 x}
+\]
+令其等於 \(0\)，可以解出\(\tan^3 x=\frac{a}{b}\)，
+\(\sin x=(1+(\frac{b}{a})^\frac{2}{3})^\frac{-1}{2}\)，
+\(\cos x=(1+(\frac{a}{b})^\frac{2}{3})^\frac{-1}{2} \)。&lt;/p&gt;
+
+&lt;p&gt;因此，
+\[
+\begin{align}
+&amp;amp; \min_x [\frac{a}{\sin x}+\frac{b}{\cos x}]\\
+=&amp;amp; a^\frac{2}{3}(a^{\frac{2}{3}}+b^{\frac{2}{3}})^\frac{1}{2}+b^\frac{2}{3}(a^{\frac{2}{3}}+b^{\frac{2}{3}})^\frac{1}{2}\\
+=&amp;amp;(a^{\frac{2}{3}}+b^{\frac{2}{3}})^{\frac{3}{2}}
+\end{align}
+\]
+即為所求。&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">今天分享一題很奇妙的題目跟很誇張的解法， 是台大物理2005年的題目。\(x\)</summary></entry><entry><title type="html">高中數學推甄題 2008臺大資工</title><link href="https://sunglinhsieh.github.io//%E9%AB%98%E4%B8%AD%E6%95%B8%E5%AD%B8%E6%8E%A8%E7%94%84%E9%A1%8C-2008%E8%87%BA%E5%A4%A7%E8%B3%87%E5%B7%A5/" rel="alternate" type="text/html" title="高中數學推甄題 2008臺大資工" /><published>2015-10-14T00:00:00-04:00</published><updated>2015-10-14T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//高中數學推甄題-2008臺大資工</id><content type="html" xml:base="https://sunglinhsieh.github.io//%E9%AB%98%E4%B8%AD%E6%95%B8%E5%AD%B8%E6%8E%A8%E7%94%84%E9%A1%8C-2008%E8%87%BA%E5%A4%A7%E8%B3%87%E5%B7%A5/">&lt;p&gt;最近在念托福，快要二戰了。&lt;/p&gt;
+
+&lt;p&gt;寫個高中數學，放鬆一下。&lt;/p&gt;
+
+&lt;p&gt;今天看到的跟上一篇一樣，都是台大資工2008，而且也是問餘數。&lt;/p&gt;
+
+&lt;p&gt;題目是問：求\([(\sqrt{23}+\sqrt{27})^{100}]\)除以100之餘數為何?&lt;/p&gt;
+
+&lt;h2 id=&quot;台大資工-2008&quot;&gt;台大資工 2008&lt;/h2&gt;
+
+&lt;p&gt;\[ [(\sqrt{23}+\sqrt{27})^{100}] \mod 100 =?
+\]
+令\(a=\sqrt{27}+\sqrt{23}\)，\(b=\sqrt{27}-\sqrt{23}\)。其中\(b=\frac{4}{\sqrt{27}+\sqrt{23}}\in (0,1)\)。
+而且，
+\[
+\begin{align}
+	  &amp;amp; a^{100}+b^{100}\\
+	= &amp;amp; \sum_{k=0}^{100}{100 \choose k} \sqrt{27}^k\sqrt{23}^{100-k}+ {100 \choose k}\sqrt{27}^k(-\sqrt{23})^{100-k}\\
+	= &amp;amp; 2\sum_{k=0}^{50} {100 \choose 2k}27^k \cdot 23^{50-k} 
+\end{align}
+\]
+為整數。因此，原式\([a^{100}]=a^{100}+b^{100}-1\)。&lt;/p&gt;
+
+&lt;p&gt;但其實這樣還是並不好解。因此，我們展開的對象改成\((a^2)^{50}+(b^2)^{50}\)。所以變成
+\[
+\begin{align}
+	&amp;amp; (a^2)^{50}+(b^2)^{50} \\
+	= &amp;amp; (50+6\sqrt{69})^{50}+(50-6\sqrt{69})^{50}\\
+	= &amp;amp; \sum_{k=0}^{50}{50 \choose k} 50^k(6\sqrt{69})^{50-k} +{50 \choose k} 50^k(-6\sqrt{69})^{50-k}\\
+	= &amp;amp; 2\sum_{k=0}^{25}{50 \choose 2k} 50^{2k}(6\sqrt{69})^{50-2k}\\
+	= &amp;amp; 2\sum_{k=0}^{25}{50 \choose 2k} 2500^k\cdot 2484^{25-k}
+\end{align}
+\]
+如此一來就明朗多了。&lt;/p&gt;
+
+&lt;p&gt;最後，再取\(\mod 100\)，
+\[
+\begin{align}
+	&amp;amp; (a^2)^{50}+(b^2)^{50} \mod 100\\
+	= &amp;amp; 2\sum_{k=0}^{25}{50 \choose 2k} 2500^k\cdot 2484^{25-k} \mod 100 \\
+	= &amp;amp; 2\cdot 2484^{25} \mod 100 \\
+	= &amp;amp; 2\cdot (-16)^{25} \mod 100 \\
+	= &amp;amp; - 2^{101} \mod 100 \\
+	= &amp;amp; -2 \cdot 24^{10} \mod 100\\
+	= &amp;amp; -2 \cdot 76^5 \mod 100\\
+	= &amp;amp; -2 \cdot 76 \mod 100\\
+	= &amp;amp; 48
+\end{align}
+\]
+最後別忘了原式\([a^{100}]\mod 100 =a^{100}+b^{100}-1 \mod 100=47\)。&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">最近在念托福，快要二戰了。 寫個高中數學，放鬆一下。 今天看到的跟上一篇一樣，都是台大資工2008，而且也是問餘數。</summary></entry><entry><title type="html">三次多項式公式解</title><link href="https://sunglinhsieh.github.io//%E4%B8%89%E6%AC%A1%E5%A4%9A%E9%A0%85%E5%BC%8F%E5%85%AC%E5%BC%8F%E8%A7%A3/" rel="alternate" type="text/html" title="三次多項式公式解" /><published>2015-08-24T00:00:00-04:00</published><updated>2015-08-24T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//三次多項式公式解</id><content type="html" xml:base="https://sunglinhsieh.github.io//%E4%B8%89%E6%AC%A1%E5%A4%9A%E9%A0%85%E5%BC%8F%E5%85%AC%E5%BC%8F%E8%A7%A3/">&lt;p&gt;在講之前，先來問一個問題：&lt;/p&gt;
 
 &lt;p&gt;如果\(\alpha=\sqrt[3]{1+\sqrt{2}} + \sqrt[3]{1-\sqrt{2}}\)，
 則\(\alpha\)在\(\mathbb{Q}[x]\) 的minimal polynomial 為何?&lt;/p&gt;
@@ -342,7 +482,7 @@ t^2+qt-\frac{p^3}{27}=0
 
 &lt;p&gt;總結來說，如果我們要解的方程式有二次式，長得像\(x^3+ax^2+bx+c=0\)，則他的三個根為：&lt;/p&gt;
 
-&lt;p&gt;\[-\frac{a}{3}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}},\\ -\frac{a}{3}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega^2,\\ -\frac{a}{3}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega^2+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega\]&lt;/p&gt;</content><category term="math" /><summary type="html">三次多項式公式解的推導</summary></entry><entry><title type="html">MathJax Example</title><link href="https://sunglinhsieh.github.io//mathjax-example/" rel="alternate" type="text/html" title="MathJax Example" /><published>2015-08-10T00:00:00-07:00</published><updated>2015-08-10T00:00:00-07:00</updated><id>https://sunglinhsieh.github.io//mathjax-example</id><content type="html" xml:base="https://sunglinhsieh.github.io//mathjax-example/">&lt;p&gt;&lt;a href=&quot;http://www.mathjax.org/&quot;&gt;MathJax&lt;/a&gt; is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics &lt;code class=&quot;highlighter-rouge&quot;&gt;\[ ... \]&lt;/code&gt;, and the other for inline mathematics &lt;code class=&quot;highlighter-rouge&quot;&gt;\( ... \)&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;\[-\frac{a}{3}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}},\\ -\frac{a}{3}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega^2,\\ -\frac{a}{3}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega^2+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega\]&lt;/p&gt;</content><category term="math" /><summary type="html">三次多項式公式解的推導</summary></entry><entry><title type="html">MathJax Example</title><link href="https://sunglinhsieh.github.io//mathjax-example/" rel="alternate" type="text/html" title="MathJax Example" /><published>2015-08-10T00:00:00-04:00</published><updated>2015-08-10T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//mathjax-example</id><content type="html" xml:base="https://sunglinhsieh.github.io//mathjax-example/">&lt;p&gt;&lt;a href=&quot;http://www.mathjax.org/&quot;&gt;MathJax&lt;/a&gt; is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics &lt;code class=&quot;highlighter-rouge&quot;&gt;\[ ... \]&lt;/code&gt;, and the other for inline mathematics &lt;code class=&quot;highlighter-rouge&quot;&gt;\( ... \)&lt;/code&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;usage&quot;&gt;Usage&lt;/h2&gt;
 
@@ -377,7 +517,7 @@ mathjax: true
       \vdots \\
       y_n
     \end{array} \right)
-\end{align*} %]]&gt;&lt;/script&gt;</content><category term="markdown" /><category term="mathjax" /><category term="example" /><category term="test" /><category term="jekyll" /><summary type="html">MathJax Example for Moon Jekyll Theme.</summary></entry><entry><title type="html">補習班看到的題目</title><link href="https://sunglinhsieh.github.io//%E8%A3%9C%E7%BF%92%E7%8F%AD%E7%9C%8B%E5%88%B0%E7%9A%84%E9%A1%8C%E7%9B%AE/" rel="alternate" type="text/html" title="補習班看到的題目" /><published>2015-06-09T00:00:00-07:00</published><updated>2015-06-09T00:00:00-07:00</updated><id>https://sunglinhsieh.github.io//補習班看到的題目</id><content type="html" xml:base="https://sunglinhsieh.github.io//%E8%A3%9C%E7%BF%92%E7%8F%AD%E7%9C%8B%E5%88%B0%E7%9A%84%E9%A1%8C%E7%9B%AE/">&lt;p&gt;難得有時間可以寫文章，最近被論文弄到快死了。&lt;/p&gt;
+\end{align*} %]]&gt;&lt;/script&gt;</content><category term="markdown" /><category term="mathjax" /><category term="example" /><category term="test" /><category term="jekyll" /><summary type="html">MathJax Example for Moon Jekyll Theme.</summary></entry><entry><title type="html">補習班看到的題目</title><link href="https://sunglinhsieh.github.io//%E8%A3%9C%E7%BF%92%E7%8F%AD%E7%9C%8B%E5%88%B0%E7%9A%84%E9%A1%8C%E7%9B%AE/" rel="alternate" type="text/html" title="補習班看到的題目" /><published>2015-06-09T00:00:00-04:00</published><updated>2015-06-09T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//補習班看到的題目</id><content type="html" xml:base="https://sunglinhsieh.github.io//%E8%A3%9C%E7%BF%92%E7%8F%AD%E7%9C%8B%E5%88%B0%E7%9A%84%E9%A1%8C%E7%9B%AE/">&lt;p&gt;難得有時間可以寫文章，最近被論文弄到快死了。&lt;/p&gt;
 
 &lt;p&gt;今天要講的是前幾天在補習班看到的競賽題，題目如下：&lt;/p&gt;
 
@@ -413,7 +553,7 @@ y’=b-c\)。&lt;/p&gt;
 \]&lt;/p&gt;
 
 &lt;p&gt;因此，此橢圓方程式為
-\[2x^2-2xy+2y^2=3\]&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">難得有時間可以寫文章, 最近被論文弄到快死了</summary></entry><entry><title type="html">高中數學推甄題 2008臺大資工</title><link href="https://sunglinhsieh.github.io//%E9%AB%98%E4%B8%AD%E6%95%B8%E5%AD%B8%E6%8E%A8%E7%94%84%E9%A1%8C-2000%E8%87%BA%E5%A4%A7%E8%B3%87%E5%B7%A5/" rel="alternate" type="text/html" title="高中數學推甄題 2008臺大資工" /><published>2015-04-12T00:00:00-07:00</published><updated>2015-04-12T00:00:00-07:00</updated><id>https://sunglinhsieh.github.io//高中數學推甄題-2000臺大資工</id><content type="html" xml:base="https://sunglinhsieh.github.io//%E9%AB%98%E4%B8%AD%E6%95%B8%E5%AD%B8%E6%8E%A8%E7%94%84%E9%A1%8C-2000%E8%87%BA%E5%A4%A7%E8%B3%87%E5%B7%A5/">&lt;p&gt;看英文看到想睡覺…
+\[2x^2-2xy+2y^2=3\]&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">難得有時間可以寫文章, 最近被論文弄到快死了</summary></entry><entry><title type="html">高中數學推甄題 2008臺大資工</title><link href="https://sunglinhsieh.github.io//%E9%AB%98%E4%B8%AD%E6%95%B8%E5%AD%B8%E6%8E%A8%E7%94%84%E9%A1%8C-2000%E8%87%BA%E5%A4%A7%E8%B3%87%E5%B7%A5/" rel="alternate" type="text/html" title="高中數學推甄題 2008臺大資工" /><published>2015-04-12T00:00:00-04:00</published><updated>2015-04-12T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//高中數學推甄題-2000臺大資工</id><content type="html" xml:base="https://sunglinhsieh.github.io//%E9%AB%98%E4%B8%AD%E6%95%B8%E5%AD%B8%E6%8E%A8%E7%94%84%E9%A1%8C-2000%E8%87%BA%E5%A4%A7%E8%B3%87%E5%B7%A5/">&lt;p&gt;看英文看到想睡覺…
 再來打個之前看過的題目好了。&lt;/p&gt;
 
 &lt;h3 id=&quot;台大資工2008&quot;&gt;台大資工2008&lt;/h3&gt;
@@ -444,95 +584,4 @@ y’=b-c\)。&lt;/p&gt;
 	= &amp;amp; -343 \mod 100\\
 	= &amp;amp; 57
 \end{align}
-\]&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">[{10^(10000)}/{10^(100}+7)}] 除以100的餘數為何([]是高斯符號)</summary></entry><entry><title type="html">高中數學推甄題 2012台大物理</title><link href="https://sunglinhsieh.github.io//%E9%AB%98%E4%B8%AD%E6%95%B8%E5%AD%B8%E6%8E%A8%E7%94%84%E9%A1%8C-2012%E5%8F%B0%E5%A4%A7%E7%89%A9%E7%90%86/" rel="alternate" type="text/html" title="高中數學推甄題 2012台大物理" /><published>2015-04-11T00:00:00-07:00</published><updated>2015-04-11T00:00:00-07:00</updated><id>https://sunglinhsieh.github.io//高中數學推甄題-2012台大物理</id><content type="html" xml:base="https://sunglinhsieh.github.io//%E9%AB%98%E4%B8%AD%E6%95%B8%E5%AD%B8%E6%8E%A8%E7%94%84%E9%A1%8C-2012%E5%8F%B0%E5%A4%A7%E7%89%A9%E7%90%86/">&lt;p&gt;希望這個系列會持續下去，這裡希望可以記錄一些有趣的高中數學題目。
-這次要講的是台大物理2012推甄題
-\( \sum_{m=1}^{n-1} \cos mx = ?\)&lt;/p&gt;
-
-&lt;h2 id=&quot;高中法-積化和差&quot;&gt;高中法: 積化和差&lt;/h2&gt;
-&lt;p&gt;首先複習一下積化和差，這裡會用到。
-\[2\cos a \sin b = \sin(a+b) - \sin(a-b)\]
-用上面的公式可以得到：
-\[\begin{align} 
- &amp;amp;\sum_{m=1}^{n-1} \cos mx \\
- = &amp;amp; \frac{1}{\sin(\frac{x}{2})} \sum_{m=1}^{n-1} \cos mx \sin(\frac{x}{2}) \\
- = &amp;amp; \frac{1}{2 \sin(\frac{x}{2})} \sum_{m=1}^{n-1}[ \sin(\frac{2m+1}{2}x) - \sin(\frac{2m-1}{2}x)]\\
- = &amp;amp; \frac{1}{2 \sin(\frac{x}{2})} (\sin(\frac{2n-1}{2}x) - \sin(\frac{1}{2}x))\\
- 	= &amp;amp; \frac{1}{2 \sin(\frac{x}{2})} (2 \cos(\frac{n}{2}x) \sin(\frac{n-1}{2}x))\\
-	= &amp;amp; \frac{\cos (\frac{n}{2}x) \sin (\frac{n-1}{2}x)}{\sin(\frac{x}{2})}\\
- \end{align}\]
- 即為所求。&lt;/p&gt;
-
-&lt;h2 id=&quot;大學法-尤拉公式&quot;&gt;大學法: 尤拉公式&lt;/h2&gt;
-&lt;p&gt;由尤拉公式(\( e^{ix} = \cos x + i \sin x \) )，加上一些式子的整理，我們可以得到以下的式子。
-\[
-\begin{align}
-	&amp;amp;\sum_{m=1}^{n-1} \cos mx \\
-	= &amp;amp; Re( \sum_{m=1}^{n-1} e^{imx})\\
-	= &amp;amp; Re(\frac{e^{ix}(e^{i(n-1)x}-1)}{1-e^{ix}})\\
-	= &amp;amp; Re(\frac{e^{inx} - e^{ix}}{1- e^{ix}})\\
-	= &amp;amp; Re(\frac{e^{i \frac{n+1}{2}x}}{e^{i\frac{x}{2}}} \frac{e^{i\frac{n-1}{2}x}-e^{-i\frac{n-1}{2}x}}{e^{i\frac{1}{2}x}- e^{-i\frac{1}{2}x}} \\
-	= &amp;amp; Re(\frac{e^{i \frac{n+1}{2}x}}{e^{i\frac{x}{2}}} \frac{(e^{i\frac{n-1}{2}x}-e^{-i\frac{n-1}{2}x})/2i}{(e^{i\frac{1}{2}x}- e^{-i\frac{1}{2}x})/2i}) \\
-	= &amp;amp; Re(\frac{e^{i \frac{n+1}{2}x}}{e^{i\frac{x}{2}}} \frac{\sin(\frac{n-1}{2}x)}{\sin(\frac{x}{2})})\\
-	= &amp;amp; \frac{\sin(\frac{n-1}{2}x)}{\sin(\frac{x}{2})} Re(e^{i\frac{n}{2}x}) \\
-	= &amp;amp; \frac{\sin(\frac{n-1}{2}x)}{\sin(\frac{x}{2})} \cos(\frac{n}{2}x) \\
-	= &amp;amp; \frac{\cos (\frac{n}{2}x) \sin (\frac{n-1}{2}x)}{\sin(\frac{x}{2})} 
-\end{align}
-\]
-其中\(Re(z)\)為取複數的實部。&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">希望這個系列會持續下去，這裡希望可以記錄一些有趣的高中數學題目
-這次要講的是台大物理2012推甄題</summary></entry><entry><title type="html">Countable and Uncountable</title><link href="https://sunglinhsieh.github.io//Countable-and-Uncountable/" rel="alternate" type="text/html" title="Countable and Uncountable" /><published>2015-02-25T00:00:00-08:00</published><updated>2015-02-25T00:00:00-08:00</updated><id>https://sunglinhsieh.github.io//Countable-and-Uncountable</id><content type="html" xml:base="https://sunglinhsieh.github.io//Countable-and-Uncountable/">&lt;p&gt;Can two infinite numbers be compared?&lt;/p&gt;
-
-&lt;p&gt;We start form finite numbers. If there are two baskets of fruits. How can we say the number of the fruits are the same. There are two of the possible methods we may use:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Count the number and verity the difference.&lt;/li&gt;
-  &lt;li&gt;Take one fruit from each basket every time and check if they are empty in the same time.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The first method is helpless for our count for infinite number because we do not know how to represent the number. On the other hand, the second methods does not quite fit what we want because a basket with infinite fruits will never empty. However, we modify this method. We call two infinite numbers, A and B (i.e. natural numbers, odd numbers, rational numbers, real numbers), having the same cardinal numbers if there is a function  \(f: A \rightarrow B\) satisfies&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;one-to-one: If \(f(a)=f(b)\), then \(a=b\).&lt;/li&gt;
-  &lt;li&gt;onto: every element in \(B\), there at least one element in \(A\) correspond to it.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;By the way, a one-to-one function is called infective function; a onto function is called surjective function; a one-to-one and onto function is called bijective function.&lt;/p&gt;
-
-&lt;p&gt;For example, the cardinal numbers of natural number and even number are the same because \(f(x)=2x\) links all elements in two sets.&lt;/p&gt;
-
-&lt;p&gt;With this method, we can verity the cardinal numbers of rational number and natural number is also the same. We call all of these numbers as same as natural number countable number.&lt;/p&gt;
-
-&lt;p&gt;However, the real number is “more” than the natural number.&lt;/p&gt;
-
-&lt;p&gt;pf:&lt;/p&gt;
-
-&lt;p&gt;If real number is as much as natural number, we can arrange all real numbers an index: \(a_1,a_2,\ldots\). We can get a list of real number. If this mapping is bijective, we can not find any real number else which is not in this list. However, we generate a new real number,&lt;/p&gt;
-
-&lt;p&gt;Its \(i^{th}\) digits after decimal point is 0 if the number in same place of \(a_i\) is 1.
- Its \(i^{th}\) digits after decimal point is 1 if the number in same place of \(a_i\) is 0.
-this new real number is different at least one digits after decimal point to all numbers in the \(a_i\) list. In other word, we can not construct such a list. It is the end of the proof.&lt;/p&gt;
-
-&lt;p&gt;Since the real number is “more” than natural number, we give it a catagory with is different from natural number. We call it uncountable number.&lt;/p&gt;</content><category term="math" /><summary type="html">Can two infinite numbers be compared?</summary></entry><entry><title type="html">Utility function of lexicographic preference</title><link href="https://sunglinhsieh.github.io//Utility-function-of-lexicographic-preference/" rel="alternate" type="text/html" title="Utility function of lexicographic preference" /><published>2015-02-15T00:00:00-08:00</published><updated>2015-02-15T00:00:00-08:00</updated><id>https://sunglinhsieh.github.io//Utility-function-of-lexicographic-preference</id><content type="html" xml:base="https://sunglinhsieh.github.io//Utility-function-of-lexicographic-preference/">&lt;p&gt;Lexicographic preference in \(\mathbb{R}^2\) is as following:&lt;/p&gt;
-
-&lt;p&gt;\((a_1, a_2) \succ (b_1, b_2)\) if and only if \(a_1&amp;gt; b_1\)  or \(a_1=b_1\) and \(a_2 &amp;gt; b_2\) .&lt;/p&gt;
-
-&lt;p&gt;For example, \((1, 0) \succ (0, 5)\) and \((1, 1) \succ (1, 0)\) .&lt;/p&gt;
-
-&lt;p&gt;Although lexicographic preference satisfies&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Complete&lt;/li&gt;
-  &lt;li&gt;Transitive
-it does not have numerical representation. In other world, there is not any function \(\mathbb{R}^2 \rightarrow \mathbb{R}\)  can represent it.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Here is the proof:&lt;/p&gt;
-
-&lt;p&gt;First of all, we restrict the domain to \([0 ,1] \times [0,1]\) only. We are going to proof that the utility is not exist even in this subset.&lt;/p&gt;
-
-&lt;p&gt;Suppose there is an utility function \(U: \mathbb{R}^2 \rightarrow \mathbb{R}\) represents lexicographic preference. We construct a function \(r(\cdot): \mathbb{R} \rightarrow \mathbb{Q}\) . For every \(x \in \mathbb{R}\), we choose a rational number \(r(x)\) satisfies \(U((x,0)) &amp;lt; r(x) &amp;lt; U((x,1))\). According to the dense of real number, the rational number must exists.&lt;/p&gt;
-
-&lt;p&gt;Moreover, if \(x_1,x_2 \in \mathbb{R}\) and \(0 \leq x_1 &amp;lt; x_2 \leq1\) . Then \(r(x_1) &amp;lt; U((x_1,1)) &amp;lt; U((x_2,0)) &amp;lt; r(x_2)\)  . To sum up, \(x_1&amp;lt; x_2\) implies \)r(x_1) &amp;lt; r(x_2)\). It also implies that \(r(\cdot)\) is a one-to -one function. It is a contradiction because ration number and real number do not share the same cardinal number.&lt;/p&gt;
-
-&lt;p&gt;Related question:&lt;/p&gt;
-
-&lt;p&gt;Utility function of this kind of preference on \(\mathbb{R}\). How about on \(\mathbb{Q}\)?&lt;/p&gt;</content><category term="Econ" /><summary type="html">Prove that there is no utility function on Lexicographic preference over real numbers</summary></entry></feed>
+\]&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">[{10^(10000)}/{10^(100}+7)}] 除以100的餘數為何([]是高斯符號)</summary></entry></feed>
