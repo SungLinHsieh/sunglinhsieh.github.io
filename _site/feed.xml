@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-06-23T00:30:55-04:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">嗨，我是謝松霖&lt;br /&gt; Hi, I’m Sung-Lin Hsieh</title><subtitle>It should be a description.</subtitle><entry><title type="html">Uncertain Demand</title><link href="https://sunglinhsieh.github.io//Uncertain-Demand/" rel="alternate" type="text/html" title="Uncertain Demand" /><published>2016-11-16T00:00:00-05:00</published><updated>2016-11-16T00:00:00-05:00</updated><id>https://sunglinhsieh.github.io//Uncertain-Demand</id><content type="html" xml:base="https://sunglinhsieh.github.io//Uncertain-Demand/">&lt;p&gt;This is a interesting question I got from the problem when I am taking macro theory.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-06-30T11:33:13-04:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">嗨，我是謝松霖&lt;br /&gt; Hi, I’m Sung-Lin Hsieh</title><subtitle>It should be a description.</subtitle><entry><title type="html">Uncertain Demand</title><link href="https://sunglinhsieh.github.io//Uncertain-Demand/" rel="alternate" type="text/html" title="Uncertain Demand" /><published>2016-11-16T00:00:00-05:00</published><updated>2016-11-16T00:00:00-05:00</updated><id>https://sunglinhsieh.github.io//Uncertain-Demand</id><content type="html" xml:base="https://sunglinhsieh.github.io//Uncertain-Demand/">&lt;p&gt;This is a interesting question I got from the problem when I am taking macro theory.&lt;/p&gt;
 
 &lt;p&gt;There are multiple time periods in this model.&lt;/p&gt;
 
@@ -396,25 +396,25 @@ feaure: http://example.com/some-image.png
 然而，而這裡的重點是，若等號要成立，我們必須要讓兩個算幾不等式都滿足，因此我們的\(k\)要滿足
 \[
 \begin{align}
-	k^{\frac{-1}{3}}&amp;amp;=\sin x&lt;br /&gt;
+	k^{\frac{-1}{3}}&amp;amp;=\sin x\\
 	k^{\frac{-1}{3}}&amp;amp;=(\frac{3}{2})^{\frac{-1}{3}}\cos x
 \end{align}
 \]
 可以算出\(k=(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{3}{2}}\)，再代回\(\sin x,\cos x\)可以得到
 \[
 \begin{align}
-	\sin x &amp;amp;=(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{-1}{2}} &lt;br /&gt;
+	\sin x &amp;amp;=(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{-1}{2}} \\
 	\cos x &amp;amp;=(\frac{2}{3})^{\frac{-1}{3}}(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{-1}{2}}
 \end{align}
 \]
 極值便等於
 \[
 \begin{align}
-	&amp;amp; \frac{2}{\sin x}+\frac{3}{\cos x}&lt;br /&gt;
-	=&amp;amp; 2 (1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{1}{2}}+ 3(\frac{2}{3})^{\frac{1}{3}}(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{1}{2}}&lt;br /&gt;
-	=&amp;amp; (2+ 2^{\frac{1}{3}}3^{\frac{2}{3}})\cdot(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{1}{2}}&lt;br /&gt;
-	=&amp;amp; (2^\frac{2}{3}+3^{\frac{2}{3}})\cdot 2^{\frac{1}{3}}\cdot(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{1}{2}}&lt;br /&gt;
-	=&amp;amp; (2^\frac{2}{3}+3^{\frac{2}{3}})\cdot (2^\frac{2}{3}+3^{\frac{2}{3}})^{\frac{1}{2}}&lt;br /&gt;
+	&amp;amp; \frac{2}{\sin x}+\frac{3}{\cos x}\\
+	=&amp;amp; 2 (1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{1}{2}}+ 3(\frac{2}{3})^{\frac{1}{3}}(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{1}{2}}\\
+	=&amp;amp; (2+ 2^{\frac{1}{3}}3^{\frac{2}{3}})\cdot(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{1}{2}}\\
+	=&amp;amp; (2^\frac{2}{3}+3^{\frac{2}{3}})\cdot 2^{\frac{1}{3}}\cdot(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{1}{2}}\\
+	=&amp;amp; (2^\frac{2}{3}+3^{\frac{2}{3}})\cdot (2^\frac{2}{3}+3^{\frac{2}{3}})^{\frac{1}{2}}\\
 	= &amp;amp; (2^\frac{2}{3}+3^{\frac{2}{3}})^{\frac{3}{2}}
 \end{align}
 \]
