@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-07-07T00:06:29-04:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">嗨，我是謝松霖&lt;br /&gt; Hi, I’m Sung-Lin Hsieh</title><subtitle>Too stupid to remember things.</subtitle><entry><title type="html">洋蔥燉牛肉</title><link href="https://sunglinhsieh.github.io//onion-beef-stew/" rel="alternate" type="text/html" title="洋蔥燉牛肉" /><published>2017-07-06T00:00:00-04:00</published><updated>2017-07-06T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//onion-beef-stew</id><content type="html" xml:base="https://sunglinhsieh.github.io//onion-beef-stew/">&lt;h1 id=&quot;材料&quot;&gt;材料&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-07-07T00:17:13-04:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">嗨，我是謝松霖&lt;br /&gt; Hi, I’m Sung-Lin Hsieh</title><subtitle>Too stupid to remember things.</subtitle><entry><title type="html">New opening</title><link href="https://sunglinhsieh.github.io//new-opening/" rel="alternate" type="text/html" title="New opening" /><published>2017-07-07T00:00:00-04:00</published><updated>2017-07-07T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//new-opening</id><content type="html" xml:base="https://sunglinhsieh.github.io//new-opening/">&lt;p&gt;以前自己有架一個wordpress，但遲遲找不到好的機會公開，所以裡面寫的東西變成自言自語，後來看到了Jekyll，覺得是個不錯的機會可以把東西搬過來。關於系統的技術文下次有機會再打。&lt;/p&gt;
+
+&lt;p&gt;希望大家踴躍留言，這樣我才知道有人在看XD&lt;/p&gt;
+
+&lt;p&gt;大家想看我寫什麼也可以跟我說喔&lt;/p&gt;</content><category term="about" /><summary type="html">以前自己有架一個wordpress，但遲遲找不到好的機會公開，所以裡面寫的東西變成自言自語，後來看到了Jekyll，覺得是個不錯的機會可以把東西搬過來。關於系統的技術文下次有機會再打。</summary></entry><entry><title type="html">洋蔥燉牛肉</title><link href="https://sunglinhsieh.github.io//onion-beef-stew/" rel="alternate" type="text/html" title="洋蔥燉牛肉" /><published>2017-07-06T00:00:00-04:00</published><updated>2017-07-06T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//onion-beef-stew</id><content type="html" xml:base="https://sunglinhsieh.github.io//onion-beef-stew/">&lt;h1 id=&quot;材料&quot;&gt;材料&lt;/h1&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -409,40 +413,4 @@ mathjax: true
       \vdots \\
       y_n
     \end{array} \right)
-\end{align*} %]]&gt;&lt;/script&gt;</content><category term="markdown" /><category term="mathjax" /><category term="example" /><category term="test" /><category term="jekyll" /><summary type="html">MathJax Example for Moon Jekyll Theme.</summary></entry><entry><title type="html">補習班看到的題目</title><link href="https://sunglinhsieh.github.io//hsmath/" rel="alternate" type="text/html" title="補習班看到的題目" /><published>2015-06-09T00:00:00-04:00</published><updated>2015-06-09T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//hsmath</id><content type="html" xml:base="https://sunglinhsieh.github.io//hsmath/">&lt;p&gt;難得有時間可以寫文章，最近被論文弄到快死了。&lt;/p&gt;
-
-&lt;p&gt;今天要講的是前幾天在補習班看到的競賽題，題目如下：&lt;/p&gt;
-
-&lt;p&gt;空間中有一個平面 \(E:x+y+z=3\)，平面上有一點\( (1,1,1)\)。&lt;/p&gt;
-
-&lt;p&gt;在\(E\)上做一圓，圓心為\( (1,1,1)\)，半徑為1。&lt;/p&gt;
-
-&lt;p&gt;過圓上一點作直線垂直平面\(E\)，此直線交xy平面於一點。
-對圓上每一個點都得到一個交點，蒐集所有的交點，得到一個橢圓，求橢圓方程式。&lt;/p&gt;
-
-&lt;p&gt;解法如下：&lt;/p&gt;
-
-&lt;p&gt;解:&lt;/p&gt;
-
-&lt;p&gt;此圓為\(x+y+z=3\) 與 \((x-1)^2+(y-1)^2+(z-1)^2=1\)的解，&lt;/p&gt;
-
-&lt;p&gt;設圓上的點為\( (a, b, c)\)，則此線為\(x-a=y-b=z-c\)。&lt;/p&gt;
-
-&lt;p&gt;因此此線與xy平面交點為\( (a-c,b-c)\)。設\(x’=a-c\)，\(
-y’=b-c\)。&lt;/p&gt;
-
-&lt;p&gt;其中\( (a,b,c)\)滿足\(a+b+c=3\) 與 \( (a-1)^2+(b-1)^2+(c-1)^2=1\)。&lt;/p&gt;
-
-&lt;p&gt;聯立 \(x’=a-c\)、\(y’=b-c\)與\(a+b+c=3\)，可以得到
-\[a=1+\frac{2x’-y’}{3}, b=1+\frac{-x’+2y’}{3}, c=1+\frac{-x’-y’}{3}\]&lt;/p&gt;
-
-&lt;p&gt;因此\( (x’,y’)\)滿足
-\[ (\frac{2x’-y’}{3})^2+(\frac{-x’+2y’}{3})^2+(\frac{-x’-y’}{3})^2=1
-\]
-或是
-\[
-2x’^2-2x’y’+2y’^2=3
-\]&lt;/p&gt;
-
-&lt;p&gt;因此，此橢圓方程式為
-\[2x^2-2xy+2y^2=3\]&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">難得有時間可以寫文章, 最近被論文弄到快死了</summary></entry></feed>
+\end{align*} %]]&gt;&lt;/script&gt;</content><category term="markdown" /><category term="mathjax" /><category term="example" /><category term="test" /><category term="jekyll" /><summary type="html">MathJax Example for Moon Jekyll Theme.</summary></entry></feed>
