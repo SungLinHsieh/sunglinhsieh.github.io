@@ -1,8 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-07-07T00:34:31-04:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">嗨，我是謝松霖&lt;br /&gt; Hi, I’m Sung-Lin Hsieh</title><subtitle>Too stupid to remember things.</subtitle><entry><title type="html">New opening</title><link href="https://sunglinhsieh.github.io//new-opening/" rel="alternate" type="text/html" title="New opening" /><published>2017-07-07T00:00:00-04:00</published><updated>2017-07-07T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//new-opening</id><content type="html" xml:base="https://sunglinhsieh.github.io//new-opening/">&lt;p&gt;以前自己有架一個wordpress，但遲遲找不到好的機會公開，所以裡面寫的東西變成自言自語，後來看到了Jekyll，覺得是個不錯的機會可以把東西搬過來。關於系統的技術文下次有機會再打。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-07-07T07:03:38-04:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">嗨，我是謝松霖&lt;br /&gt; Hi, I’m Sung-Lin Hsieh</title><subtitle>Too stupid to remember things.</subtitle><entry><title type="html">New opening</title><link href="https://sunglinhsieh.github.io//new-opening/" rel="alternate" type="text/html" title="New opening" /><published>2017-07-07T00:00:00-04:00</published><updated>2017-07-07T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//new-opening</id><content type="html" xml:base="https://sunglinhsieh.github.io//new-opening/">&lt;p&gt;以前自己有架一個wordpress，但遲遲找不到好的機會公開，所以裡面寫的東西變成自言自語，後來看到了Jekyll，覺得是個不錯的機會可以把東西搬過來。關於系統的技術文下次有機會再打。&lt;/p&gt;
 
 &lt;p&gt;希望大家踴躍留言，這樣我才知道有人在看XD&lt;/p&gt;
 
-&lt;p&gt;大家想看我寫什麼也可以跟我說喔&lt;/p&gt;</content><category term="about" /><summary type="html">以前自己有架一個wordpress，但遲遲找不到好的機會公開，所以裡面寫的東西變成自言自語，後來看到了Jekyll，覺得是個不錯的機會可以把東西搬過來。關於系統的技術文下次有機會再打。</summary></entry><entry><title type="html">洋蔥燉牛肉</title><link href="https://sunglinhsieh.github.io//onion-beef-stew/" rel="alternate" type="text/html" title="洋蔥燉牛肉" /><published>2017-07-06T00:00:00-04:00</published><updated>2017-07-06T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//onion-beef-stew</id><content type="html" xml:base="https://sunglinhsieh.github.io//onion-beef-stew/">&lt;h1 id=&quot;材料&quot;&gt;材料&lt;/h1&gt;
+&lt;p&gt;大家想看我寫什麼也可以跟我說喔&lt;/p&gt;</content><category term="about" /><summary type="html">以前自己有架一個wordpress，但遲遲找不到好的機會公開，所以裡面寫的東西變成自言自語，後來看到了Jekyll，覺得是個不錯的機會可以把東西搬過來。關於系統的技術文下次有機會再打。</summary></entry><entry><title type="html">高中數學推甄題 2005臺大物理-續</title><link href="https://sunglinhsieh.github.io//2015ntuphy-cont/" rel="alternate" type="text/html" title="高中數學推甄題 2005臺大物理-續" /><published>2017-07-07T00:00:00-04:00</published><updated>2017-07-07T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//2015ntuphy-cont</id><content type="html" xml:base="https://sunglinhsieh.github.io//2015ntuphy-cont/">&lt;p&gt;在facebook公開了這裡之後，得到了一些建議，其中有學長說&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Thomas Anderson：2005台大物理那題數學 可以用廣義柯西 那是很久以前的大學聯考考題&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;於是就有了這篇。&lt;/p&gt;
+
+&lt;p&gt;首先重新敘述一下題目：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;當\(0 &amp;lt; x &amp;lt; \frac{\pi}{2}\)時，
+求\(\frac{2}{\sin x} + \frac{3}{\cos x}\)的最小值。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;然後google了一下廣義柯西，就找到了&lt;a href=&quot;http://www3.cnsh.mlc.edu.tw/~math/absolute-inequality/%20absolute%20inequality_3-2-2_.pdf&quot;&gt;這個&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;這邊先簡單敘述一下定理：&lt;/p&gt;
+
+&lt;p&gt;若\(a_{i,j}\geq 0, \forall 0\leq i\leq n, 0\leq j\leq m \)，則
+\[
+\prod_{i=1}^n \sum_{j=1}^m a_{i,j}^n \geq (\sum_{i=1}^n \prod_{j=1} ^m a_{i,j})^n
+\]&lt;/p&gt;
+
+&lt;p&gt;用符號寫可能有點難以理解，我們今天要用的是\(n=3，m=2\)的case，換個符號寫可以寫成這樣：
+\[
+(a_1^3+a_2^3)(b_1^3+b_2^3)(c_1^3+c_2^3)\geq(a_1b_1c_1+a_2b_2c_2)^3
+\]&lt;/p&gt;
+
+&lt;p&gt;於是代入\(a_1=b_1=\sqrt[3]{\frac{2}{\sin x}}\)，\(c_1=(\sin x)^{\frac{2}{3}}\)，\(a_2=b_2=\sqrt[3]{\frac{3}{\cos x}}\)，\(c_2=(\cos x)^{\frac{2}{3}}\)，可以得到：
+\[
+(\frac{2}{\sin x} + \frac{3}{\cos x})^2\geq(2^{\frac{2}{3}}+3^{\frac{2}{3}})^3
+\]
+因此我們就有了答案
+\[
+\frac{2}{\sin x} + \frac{3}{\cos x}\geq(2^{\frac{2}{3}}+3^{\frac{2}{3}})^\frac{3}{2}
+\]&lt;/p&gt;
+
+&lt;p&gt;這個解法完全乾淨很多，感謝Thomas Anderson學長&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">Thomas Anderson：2005台大物理那題數學 可以用廣義柯西 那是很久以前的大學聯考考題</summary></entry><entry><title type="html">洋蔥燉牛肉</title><link href="https://sunglinhsieh.github.io//onion-beef-stew/" rel="alternate" type="text/html" title="洋蔥燉牛肉" /><published>2017-07-06T00:00:00-04:00</published><updated>2017-07-06T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//onion-beef-stew</id><content type="html" xml:base="https://sunglinhsieh.github.io//onion-beef-stew/">&lt;h1 id=&quot;材料&quot;&gt;材料&lt;/h1&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -378,39 +416,4 @@ t^2+qt-\frac{p^3}{27}=0
 
 &lt;p&gt;總結來說，如果我們要解的方程式有二次式，長得像\(x^3+ax^2+bx+c=0\)，則他的三個根為：&lt;/p&gt;
 
-&lt;p&gt;\[-\frac{a}{3}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}},\\ -\frac{a}{3}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega^2,\\ -\frac{a}{3}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega^2+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega\]&lt;/p&gt;</content><category term="math" /><summary type="html">三次多項式公式解的推導</summary></entry><entry><title type="html">MathJax Example</title><link href="https://sunglinhsieh.github.io//mathjax-example/" rel="alternate" type="text/html" title="MathJax Example" /><published>2015-08-10T00:00:00-04:00</published><updated>2015-08-10T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//mathjax-example</id><content type="html" xml:base="https://sunglinhsieh.github.io//mathjax-example/">&lt;p&gt;&lt;a href=&quot;http://www.mathjax.org/&quot;&gt;MathJax&lt;/a&gt; is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics &lt;code class=&quot;highlighter-rouge&quot;&gt;\[ ... \]&lt;/code&gt;, and the other for inline mathematics &lt;code class=&quot;highlighter-rouge&quot;&gt;\( ... \)&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;usage&quot;&gt;Usage&lt;/h2&gt;
-
-&lt;p&gt;To enable MathJax support be sure Kramdown is your Markdown flavor of choice and MathJax is set to true in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;markdown: kramdown
-mathjax: true
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
-\\[ \frac{1}{n^{2}} \\]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Here is an example MathJax inline rendering \( 1/x^{2} \), and here is a block rendering: 
-\[ \frac{1}{n^{2}} \]&lt;/p&gt;
-
-&lt;p&gt;The only thing to look out for is the escaping of the backslash when using markdown, so the delimiters become &lt;code class=&quot;highlighter-rouge&quot;&gt;\\[ ... \\]&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;\\( ... \\)&lt;/code&gt; for inline and block maths respectively.&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
-\begin{align*}
-  &amp; \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
-  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
-  &amp; (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-      \phi(e_1, e_1) &amp; \cdots &amp; \phi(e_1, e_n) \\
-      \vdots &amp; \ddots &amp; \vdots \\
-      \phi(e_n, e_1) &amp; \cdots &amp; \phi(e_n, e_n)
-    \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\
-      \vdots \\
-      y_n
-    \end{array} \right)
-\end{align*} %]]&gt;&lt;/script&gt;</content><category term="markdown" /><category term="mathjax" /><category term="example" /><category term="test" /><category term="jekyll" /><summary type="html">MathJax Example for Moon Jekyll Theme.</summary></entry></feed>
+&lt;p&gt;\[-\frac{a}{3}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}},\\ -\frac{a}{3}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega^2,\\ -\frac{a}{3}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega^2+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega\]&lt;/p&gt;</content><category term="math" /><summary type="html">三次多項式公式解的推導</summary></entry></feed>
