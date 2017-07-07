@@ -43,9 +43,7 @@ comments: true
 6. 完全不知道要加多少水，我就把8Qt的壓力鍋內鍋加滿。
 7. 然後就變這樣
 
-<figure>
-	<a href="https://sunglinhsieh.github.io//assets/postimg/2017.07.06/beef.stew.1.JPG"></a>
-</figure>
+![Stew 1](https://sunglinhsieh.github.io//assets/postimg/2017.07.06/beef.stew.1.JPG)
 
 煮完就變這樣
 
