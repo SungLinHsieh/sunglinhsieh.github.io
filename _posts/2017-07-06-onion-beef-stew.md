@@ -2,6 +2,7 @@
 layout: post
 title:  "洋蔥燉牛肉"
 date:   2017-07-06
+excerpt: "是好吃的洋蔥燉牛肉喔"
 food: true
 tag:
 - food
