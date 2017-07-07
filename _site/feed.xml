@@ -1,4 +1,101 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-07-06T22:43:20-04:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">嗨，我是謝松霖&lt;br /&gt; Hi, I’m Sung-Lin Hsieh</title><subtitle>It should be a description.</subtitle><entry><title type="html">食譜區開張</title><link href="https://sunglinhsieh.github.io//food/" rel="alternate" type="text/html" title="食譜區開張" /><published>2017-07-06T00:00:00-04:00</published><updated>2017-07-06T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//food</id><content type="html" xml:base="https://sunglinhsieh.github.io//food/">&lt;p&gt;來美國之後開始努力學做菜，做了一年之後發現自己記憶力是有限的。
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-07-06T23:16:32-04:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">嗨，我是謝松霖&lt;br /&gt; Hi, I’m Sung-Lin Hsieh</title><subtitle>It should be a description.</subtitle><entry><title type="html">洋蔥燉牛肉</title><link href="https://sunglinhsieh.github.io//onion-beef-stew/" rel="alternate" type="text/html" title="洋蔥燉牛肉" /><published>2017-07-06T00:00:00-04:00</published><updated>2017-07-06T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//onion-beef-stew</id><content type="html" xml:base="https://sunglinhsieh.github.io//onion-beef-stew/">&lt;h1 id=&quot;材料&quot;&gt;材料&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;材料&lt;/th&gt;
+      &lt;th&gt;Ingredients&lt;/th&gt;
+      &lt;th&gt;數目&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;燉肉用牛肉&lt;/td&gt;
+      &lt;td&gt;Stew Beef&lt;/td&gt;
+      &lt;td&gt;4.6 磅&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;洋蔥&lt;/td&gt;
+      &lt;td&gt;Onion&lt;/td&gt;
+      &lt;td&gt;3顆&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;胡蘿蔔&lt;/td&gt;
+      &lt;td&gt;Carrot&lt;/td&gt;
+      &lt;td&gt;2條&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;蒜頭&lt;/td&gt;
+      &lt;td&gt;Garlic&lt;/td&gt;
+      &lt;td&gt;2瓣&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;醬油&lt;/td&gt;
+      &lt;td&gt;Soy Sauce&lt;/td&gt;
+      &lt;td&gt;3大匙&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;豆瓣醬&lt;/td&gt;
+      &lt;td&gt;Doubanjiang&lt;/td&gt;
+      &lt;td&gt;2大匙&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;番茄醬&lt;/td&gt;
+      &lt;td&gt;Ketchup&lt;/td&gt;
+      &lt;td&gt;1大匙&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;鹽&lt;/td&gt;
+      &lt;td&gt;Salt&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;薑&lt;/td&gt;
+      &lt;td&gt;Ginger&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;米酒&lt;/td&gt;
+      &lt;td&gt;Rice Wine&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&quot;步驟&quot;&gt;步驟&lt;/h1&gt;
+
+&lt;h2 id=&quot;事前準備&quot;&gt;事前準備&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;把洋蔥切絲，但不要太小，不然燉太久會不見。&lt;/li&gt;
+  &lt;li&gt;胡蘿蔔削皮後切段。&lt;/li&gt;
+  &lt;li&gt;川燙牛肉，記得加一點薑片跟米酒去腥。&lt;/li&gt;
+  &lt;li&gt;川燙完的牛肉可以丟到冰水裡面，感覺很猛。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;正式開始&quot;&gt;正式開始&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;蒜頭拍扁爆香。&lt;/li&gt;
+  &lt;li&gt;加入洋蔥炒到洋蔥開始變軟。&lt;/li&gt;
+  &lt;li&gt;加入牛肉炒到牛肉表面微焦。&lt;/li&gt;
+  &lt;li&gt;把所有東西丟到壓力鍋裡面，我把胡蘿蔔放最底下，希望他會軟一點。&lt;/li&gt;
+  &lt;li&gt;加入除了鹽以外的調味料們，鹽等煮好再加。&lt;/li&gt;
+  &lt;li&gt;完全不知道要加多少水，我就把8Qt的壓力鍋內鍋加滿。&lt;/li&gt;
+  &lt;li&gt;然後就變這樣&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://sunglinhsieh.github.io//assets/postimg/2017.07.06/beef.stew.1.JPG&quot; alt=&quot;Stew 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;煮完就變這樣&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://sunglinhsieh.github.io//assets/postimg/2017.07.06/beef.stew.2.JPG&quot; alt=&quot;Stew 2&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;參考資料&quot;&gt;參考資料&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://icook.tw/recipes/165715&quot;&gt;洋蔥燉牛肉 - iCook 愛料理&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cookpad.com/tw/食譜/2068641-洋蔥番茄燉牛肉&quot;&gt;BabyBear 發表的 洋蔥番茄燉牛肉 食譜 - Cookpad&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="food" /><category term="beef" /><summary type="html">材料</summary></entry><entry><title type="html">食譜區開張</title><link href="https://sunglinhsieh.github.io//food/" rel="alternate" type="text/html" title="食譜區開張" /><published>2017-07-06T00:00:00-04:00</published><updated>2017-07-06T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//food</id><content type="html" xml:base="https://sunglinhsieh.github.io//food/">&lt;p&gt;來美國之後開始努力學做菜，做了一年之後發現自己記憶力是有限的。
 於是覺得應該要找個地方紀錄一下自己做過什麼菜。&lt;/p&gt;
 
 &lt;p&gt;我的食譜來源跟大家一樣大部分都是網路，不過我會綜合很多個食譜然後拼出一道我覺得合理的做法。我在這邊提供食譜的時候會盡量把我原本蒐集到的資料都貼上來。&lt;/p&gt;</content><category term="food" /><summary type="html">來美國之後開始努力學做菜，做了一年之後發現自己記憶力是有限的。
@@ -374,39 +471,4 @@ y’=b-c\)。&lt;/p&gt;
 	= &amp;amp; -343 \mod 100\\
 	= &amp;amp; 57
 \end{align}
-\]&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">[{10^(10000)}/{10^(100}+7)}] 除以100的餘數為何([]是高斯符號)</summary></entry><entry><title type="html">高中數學推甄題 2012台大物理</title><link href="https://sunglinhsieh.github.io//2012ntuphy/" rel="alternate" type="text/html" title="高中數學推甄題 2012台大物理" /><published>2015-04-11T00:00:00-04:00</published><updated>2015-04-11T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//2012ntuphy</id><content type="html" xml:base="https://sunglinhsieh.github.io//2012ntuphy/">&lt;p&gt;希望這個系列會持續下去，這裡希望可以記錄一些有趣的高中數學題目。
-這次要講的是台大物理2012推甄題
-\( \sum_{m=1}^{n-1} \cos mx = ?\)&lt;/p&gt;
-
-&lt;h2 id=&quot;高中法-積化和差&quot;&gt;高中法: 積化和差&lt;/h2&gt;
-&lt;p&gt;首先複習一下積化和差，這裡會用到。
-\[2\cos a \sin b = \sin(a+b) - \sin(a-b)\]
-用上面的公式可以得到：
-\[\begin{align} 
- &amp;amp;\sum_{m=1}^{n-1} \cos mx \\
- = &amp;amp; \frac{1}{\sin(\frac{x}{2})} \sum_{m=1}^{n-1} \cos mx \sin(\frac{x}{2}) \\
- = &amp;amp; \frac{1}{2 \sin(\frac{x}{2})} \sum_{m=1}^{n-1}[ \sin(\frac{2m+1}{2}x) - \sin(\frac{2m-1}{2}x)]\\
- = &amp;amp; \frac{1}{2 \sin(\frac{x}{2})} (\sin(\frac{2n-1}{2}x) - \sin(\frac{1}{2}x))\\
- 	= &amp;amp; \frac{1}{2 \sin(\frac{x}{2})} (2 \cos(\frac{n}{2}x) \sin(\frac{n-1}{2}x))\\
-	= &amp;amp; \frac{\cos (\frac{n}{2}x) \sin (\frac{n-1}{2}x)}{\sin(\frac{x}{2})}\\
- \end{align}\]
- 即為所求。&lt;/p&gt;
-
-&lt;h2 id=&quot;大學法-尤拉公式&quot;&gt;大學法: 尤拉公式&lt;/h2&gt;
-&lt;p&gt;由尤拉公式(\( e^{ix} = \cos x + i \sin x \) )，加上一些式子的整理，我們可以得到以下的式子。
-\[
-\begin{align}
-	&amp;amp;\sum_{m=1}^{n-1} \cos mx \\
-	= &amp;amp; Re( \sum_{m=1}^{n-1} e^{imx})\\
-	= &amp;amp; Re(\frac{e^{ix}(e^{i(n-1)x}-1)}{1-e^{ix}})\\
-	= &amp;amp; Re(\frac{e^{inx} - e^{ix}}{1- e^{ix}})\\
-	= &amp;amp; Re(\frac{e^{i \frac{n+1}{2}x}}{e^{i\frac{x}{2}}} \frac{e^{i\frac{n-1}{2}x}-e^{-i\frac{n-1}{2}x}}{e^{i\frac{1}{2}x}- e^{-i\frac{1}{2}x}} \\
-	= &amp;amp; Re(\frac{e^{i \frac{n+1}{2}x}}{e^{i\frac{x}{2}}} \frac{(e^{i\frac{n-1}{2}x}-e^{-i\frac{n-1}{2}x})/2i}{(e^{i\frac{1}{2}x}- e^{-i\frac{1}{2}x})/2i}) \\
-	= &amp;amp; Re(\frac{e^{i \frac{n+1}{2}x}}{e^{i\frac{x}{2}}} \frac{\sin(\frac{n-1}{2}x)}{\sin(\frac{x}{2})})\\
-	= &amp;amp; \frac{\sin(\frac{n-1}{2}x)}{\sin(\frac{x}{2})} Re(e^{i\frac{n}{2}x}) \\
-	= &amp;amp; \frac{\sin(\frac{n-1}{2}x)}{\sin(\frac{x}{2})} \cos(\frac{n}{2}x) \\
-	= &amp;amp; \frac{\cos (\frac{n}{2}x) \sin (\frac{n-1}{2}x)}{\sin(\frac{x}{2})} 
-\end{align}
-\]
-其中\(Re(z)\)為取複數的實部。&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">希望這個系列會持續下去，這裡希望可以記錄一些有趣的高中數學題目
-這次要講的是台大物理2012推甄題</summary></entry></feed>
+\]&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">[{10^(10000)}/{10^(100}+7)}] 除以100的餘數為何([]是高斯符號)</summary></entry></feed>
