@@ -2,7 +2,7 @@
 title:              "嗨，我是謝松霖<br> Hi, I'm Sung-Lin Hsieh"
 bio:                'Econ, Math, Games, Tech, Food.'
 description:        "Too stupid to remember things."
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logogo.png'
 background:         'assets/img/placeholder-big.jpg'
