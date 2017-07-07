@@ -71,5 +71,11 @@ t^2+qt-\frac{p^3}{27}=0
 
 總結來說，如果我們要解的方程式有二次式，長得像\\(x^3+ax^2+bx+c=0\\)，則他的三個根為：
 
-\\[-\frac{a}{3}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}},\\\ -\frac{a}{3}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega^2,\\\ -\frac{a}{3}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega^2+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega\\]
+\\[-\frac{a}{3}+A+B,\\\ -\frac{a}{3}+A\omega+B\omega^2,\\\ -\frac{a}{3}+A\omega^2+B\omega\\]
+
+其中
+\\[
+A=\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}},\\\
+B=\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}
+\\]
 

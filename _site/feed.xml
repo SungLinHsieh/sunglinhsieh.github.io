@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-07-07T07:03:38-04:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">嗨，我是謝松霖&lt;br /&gt; Hi, I’m Sung-Lin Hsieh</title><subtitle>Too stupid to remember things.</subtitle><entry><title type="html">New opening</title><link href="https://sunglinhsieh.github.io//new-opening/" rel="alternate" type="text/html" title="New opening" /><published>2017-07-07T00:00:00-04:00</published><updated>2017-07-07T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//new-opening</id><content type="html" xml:base="https://sunglinhsieh.github.io//new-opening/">&lt;p&gt;以前自己有架一個wordpress，但遲遲找不到好的機會公開，所以裡面寫的東西變成自言自語，後來看到了Jekyll，覺得是個不錯的機會可以把東西搬過來。關於系統的技術文下次有機會再打。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-07-07T07:10:03-04:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">嗨，我是謝松霖&lt;br /&gt; Hi, I’m Sung-Lin Hsieh</title><subtitle>Too stupid to remember things.</subtitle><entry><title type="html">New opening</title><link href="https://sunglinhsieh.github.io//new-opening/" rel="alternate" type="text/html" title="New opening" /><published>2017-07-07T00:00:00-04:00</published><updated>2017-07-07T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//new-opening</id><content type="html" xml:base="https://sunglinhsieh.github.io//new-opening/">&lt;p&gt;以前自己有架一個wordpress，但遲遲找不到好的機會公開，所以裡面寫的東西變成自言自語，後來看到了Jekyll，覺得是個不錯的機會可以把東西搬過來。關於系統的技術文下次有機會再打。&lt;/p&gt;
 
 &lt;p&gt;希望大家踴躍留言，這樣我才知道有人在看XD&lt;/p&gt;
 
@@ -416,4 +416,10 @@ t^2+qt-\frac{p^3}{27}=0
 
 &lt;p&gt;總結來說，如果我們要解的方程式有二次式，長得像\(x^3+ax^2+bx+c=0\)，則他的三個根為：&lt;/p&gt;
 
-&lt;p&gt;\[-\frac{a}{3}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}},\\ -\frac{a}{3}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega^2,\\ -\frac{a}{3}+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega^2+\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}\omega\]&lt;/p&gt;</content><category term="math" /><summary type="html">三次多項式公式解的推導</summary></entry></feed>
+&lt;p&gt;\[-\frac{a}{3}+A+B,\\ -\frac{a}{3}+A\omega+B\omega^2,\\ -\frac{a}{3}+A\omega^2+B\omega\]&lt;/p&gt;
+
+&lt;p&gt;其中
+\[
+A=\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}},\\
+B=\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}
+\]&lt;/p&gt;</content><category term="math" /><summary type="html">三次多項式公式解的推導</summary></entry></feed>
