@@ -1,4 +1,90 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-07-07T13:22:53-04:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">嗨，我是謝松霖&lt;br /&gt; Hi, I’m Sung-Lin Hsieh</title><subtitle>Too stupid to remember things.</subtitle><entry><title type="html">New opening</title><link href="https://sunglinhsieh.github.io//new-opening/" rel="alternate" type="text/html" title="New opening" /><published>2017-07-07T00:00:00-04:00</published><updated>2017-07-07T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//new-opening</id><content type="html" xml:base="https://sunglinhsieh.github.io//new-opening/">&lt;p&gt;以前自己有架一個wordpress，但遲遲找不到好的機會公開，所以裡面寫的東西變成自言自語，後來看到了Jekyll，覺得是個不錯的機會可以把東西搬過來。關於系統的技術文下次有機會再打。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-08-15T13:18:58-04:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">嗨，我是謝松霖&lt;br /&gt; Hi, I’m Sung-Lin Hsieh</title><subtitle>Too stupid to remember things.</subtitle><entry><title type="html">滷肉飯</title><link href="https://sunglinhsieh.github.io//soy-sauce-stew/" rel="alternate" type="text/html" title="滷肉飯" /><published>2017-08-15T00:00:00-04:00</published><updated>2017-08-15T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//soy-sauce-stew</id><content type="html" xml:base="https://sunglinhsieh.github.io//soy-sauce-stew/">&lt;h1 id=&quot;材料&quot;&gt;材料&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;材料&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Ingredients&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;數目&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;五花肉&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Pork Belly&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;隨意&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;紅蔥頭&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Shallot&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5顆&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;醬油&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Soy Sauce&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;300 ml&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;蘋果西打&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Apple Sidra&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;600 ml&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;白糖&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Sugar&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3大匙&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;五香粉&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Five Spices Powder&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;白胡椒粉&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;White pepper&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;蘋果西打買不到的話可以用可樂代替，味道不太一樣就是。&lt;/p&gt;
+
+&lt;h1 id=&quot;步驟&quot;&gt;步驟&lt;/h1&gt;
+
+&lt;h2 id=&quot;事前準備&quot;&gt;事前準備&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;五花肉切小塊，最好是每一塊有肥有瘦。&lt;/li&gt;
+  &lt;li&gt;紅蔥頭切小片(反正就是切一切但不要太碎，不知道要用什麼單位)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;如果你想要的話可以額外準備&quot;&gt;如果你想要的話可以額外準備&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;煮水煮蛋然後剝殼&lt;/li&gt;
+  &lt;li&gt;乾香菇泡水&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;正式開始&quot;&gt;正式開始&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;炒鍋加一點油然後中火炒紅蔥頭，之後都一直維持中火。&lt;/li&gt;
+  &lt;li&gt;炒到紅蔥頭變半透明、變軟之後就可以下肉。&lt;/li&gt;
+  &lt;li&gt;肉炒到有一點點熟了之後就可以下醬油。&lt;/li&gt;
+  &lt;li&gt;炒到肉上色了之後下三匙糖。&lt;/li&gt;
+  &lt;li&gt;等到醬油開始滾了之後就可以把炒鍋裡的東西移到電鍋內鍋。&lt;/li&gt;
+  &lt;li&gt;加入600ml的蘋果西打，然後把水煮蛋跟香菇(如果有)也加進去。&lt;/li&gt;
+  &lt;li&gt;加五香粉跟胡椒粉。每次看食譜我都覺得粉的量超難拿捏，這裡五香粉我是加讓粉蓋過內鍋水面的四分之一，然後胡椒比五香粉少一點。如果覺得不夠的話當然可以煮起來之後再加。&lt;/li&gt;
+  &lt;li&gt;放到電鍋煮，大功告成。&lt;/li&gt;
+  &lt;li&gt;滷肉的精髓當然就是煮好之後用小火一直滷。不過注意如果有放滷蛋的話火不要太大，不然魯蛋會變鐵蛋。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;參考資料&quot;&gt;參考資料&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=h0aDdUc6TxU&quot;&gt;錵鑶聖凱師 好媽媽料理 蘋果西打滷肉飯&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="food" /><category term="pork" /><summary type="html">電鍋簡單好上手滷肉飯</summary></entry><entry><title type="html">New opening</title><link href="https://sunglinhsieh.github.io//new-opening/" rel="alternate" type="text/html" title="New opening" /><published>2017-07-07T00:00:00-04:00</published><updated>2017-07-07T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//new-opening</id><content type="html" xml:base="https://sunglinhsieh.github.io//new-opening/">&lt;p&gt;以前自己有架一個wordpress，但遲遲找不到好的機會公開，所以裡面寫的東西變成自言自語，後來看到了Jekyll，覺得是個不錯的機會可以把東西搬過來。關於系統的技術文下次有機會再打。&lt;/p&gt;
 
 &lt;p&gt;希望大家踴躍留言，這樣我才知道有人在看XD&lt;/p&gt;
 
@@ -357,71 +443,4 @@ B_n=\frac{2}{n\pi c}\int^L_0 g(x)\sin(\frac{n\pi}{L}x)dx
 	= &amp;amp; 48
 \end{align}
 \]
-最後別忘了原式\([a^{100}]\mod 100 =a^{100}+b^{100}-1 \mod 100=47\)。&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">最近在念托福，快要二戰了。 寫個高中數學，放鬆一下。 今天看到的跟上一篇一樣，都是台大資工2008，而且也是問餘數。</summary></entry><entry><title type="html">三次多項式公式解</title><link href="https://sunglinhsieh.github.io//cubicpoly/" rel="alternate" type="text/html" title="三次多項式公式解" /><published>2015-08-24T00:00:00-04:00</published><updated>2015-08-24T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//cubicpoly</id><content type="html" xml:base="https://sunglinhsieh.github.io//cubicpoly/">&lt;p&gt;在講之前，先來問一個問題：&lt;/p&gt;
-
-&lt;p&gt;如果\(\alpha=\sqrt[3]{1+\sqrt{2}} + \sqrt[3]{1-\sqrt{2}}\)，
-則\(\alpha\)在\(\mathbb{Q}[x]\) 的minimal polynomial 為何?&lt;/p&gt;
-
-&lt;p&gt;意思是，要找出含有\(\alpha\)這個根的有理系數係數多項式之中次方最低的。&lt;/p&gt;
-
-&lt;p&gt;我們令\(a=\sqrt[3]{1+\sqrt{2}}\)，\(b=\sqrt[3]{1-\sqrt{2}}\)。 然而我們有乘法公式： 
-\[\alpha^3=(a+b)^3=a^3+b^3+3ab(a+b)\]&lt;/p&gt;
-
-&lt;p&gt;因此，我們有 
-\[\alpha^3=(1+\sqrt{2})+(1-\sqrt{2})+3(-1)\alpha\]
-而所求即為 \(x^3+3x-2\)。&lt;/p&gt;
-
-&lt;p&gt;從上面的討論，我們可以看出來：&lt;/p&gt;
-
-&lt;p&gt;若\(x=u+v\)，則\(x^3=u^3+v^3+(3uv) x\)，或是\(x^3-(3uv)x-(u^3+v^3)=0\)。&lt;/p&gt;
-
-&lt;p&gt;因此，如果我們要解\(x^3+px+q=0\)的根，我們只需要找到\(u\)，\(v\)使得
-\[
-uv=\frac{-p}{3}，
-\] 
-以及 
-\[
-u^3+v^3=-q。
-\]&lt;/p&gt;
-
-&lt;p&gt;把前者兩邊都三次方可以得到\(u^3v^3=\frac{-p^3}{27}\)，
-藉由二次方程式的根與係數，我們可以知道\(u^3\)與\(v^3\)會是
-\[
-t^2+qt-\frac{p^3}{27}=0
-\]
-的兩根，再由二次式的公式解，可以得到\(u^3\)，\(v^3\)為
-\[
-\frac{-q}{2}+\sqrt{\frac{q^2}{4}+\frac{q^3}{27}}
-，\frac{-q}{2}-\sqrt{\frac{q^2}{4}+\frac{q^3}{27}} 
-\]
-但我們要解的是\(u\)和\(v\)，就必須要解\(u^3=\frac{-q}{2}+\sqrt{\frac{q^2}{4}+\frac{q^3}{27}}\)。&lt;/p&gt;
-
-&lt;p&gt;上式可以得到\(u=\sqrt[3]{\frac{-q}{2}+\sqrt{\frac{q^2}{4}+\frac{q^3}{27}}}\) 或該答案是再乘上\(\omega\)或\(\omega^2\)。&lt;/p&gt;
-
-&lt;p&gt;\(\omega是x^3=1\)的第一個複數根，\(\frac{-1+\sqrt{3}i}{2}\)。&lt;/p&gt;
-
-&lt;p&gt;所以\(x=u+v\)應該會有六種可能，因為\(u\)，\(v\)各有三種可能。&lt;/p&gt;
-
-&lt;p&gt;不過，因為我們要保持\(uv=\frac{-p}{3}\)，因此當\(u=\sqrt[3]{\frac{-q}{2}+\sqrt{\frac{q^2}{4}+\frac{q^3}{27}}} \omega\)時，
-\(v\)必須為\(\sqrt[3]{\frac{-q}{2}-\sqrt{\frac{q^2}{4}+\frac{q^3}{27}}} \omega^2\)使得乘積不變。&lt;/p&gt;
-
-&lt;p&gt;總結來說，\(x^3+px+q=0\)的根為：&lt;/p&gt;
-
-&lt;p&gt;\[\sqrt[3]{\frac{-q}{2}+\sqrt{\frac{q^2}{4}+\frac{q^3}{27}}}+ \sqrt[3]{\frac{-q}{2}-\sqrt{\frac{q^2}{4}+\frac{q^3}{27}}},\\ \sqrt[3]{\frac{-q}{2}+\sqrt{\frac{q^2}{4}+\frac{q^3}{27}}}\omega+ \sqrt[3]{\frac{-q}{2}-\sqrt{\frac{q^2}{4}+\frac{q^3}{27}}} \omega^2,\\ \sqrt[3]{\frac{-q}{2}+\sqrt{\frac{q^2}{4}+\frac{q^3}{27}}} \omega^2+ \sqrt[3]{\frac{-q}{2}-\sqrt{\frac{q^2}{4}+\frac{q^3}{27}}} \omega\]
-但上述的討論都是侷限在二次係數為0的狀況，若我們的二次係數不是0該怎麼辦呢？&lt;/p&gt;
-
-&lt;p&gt;解決方法跟二次式的配方有點像，若我們要解的方程式為\(x^3+ax^2+bx+c=0\)，
-其等價於\((x+\frac{a}{3})^3+\frac{3b-a^2}{3}(x+\frac{a}{3})+\frac{27c-9ab+2a^3}{27}=0\)。&lt;/p&gt;
-
-&lt;p&gt;因此，只要令\(y=x+\frac{a}{3}\)，我們可以得到\(y^3+\frac{3b-a^2}{3}y+\frac{27c-9ab+2a^3}{27}=0\)這個沒有二次係數的三次方程式。
-將解出來的根減掉\(\frac{a}{3}\)，即為所求。&lt;/p&gt;
-
-&lt;p&gt;總結來說，如果我們要解的方程式有二次式，長得像\(x^3+ax^2+bx+c=0\)，則他的三個根為：&lt;/p&gt;
-
-&lt;p&gt;\[-\frac{a}{3}+A+B,\\ -\frac{a}{3}+A\omega+B\omega^2,\\ -\frac{a}{3}+A\omega^2+B\omega\]&lt;/p&gt;
-
-&lt;p&gt;其中
-\[
-A=\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}+\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}},\\
-B=\frac{1}{3}\sqrt[3]{-\frac{27c-9ab+2a^3}{2}-\sqrt{(\frac{27c-9ab+2a^3}{2})^2+(3b-a^2)^3}}
-\]&lt;/p&gt;</content><category term="math" /><summary type="html">三次多項式公式解的推導</summary></entry></feed>
+最後別忘了原式\([a^{100}]\mod 100 =a^{100}+b^{100}-1 \mod 100=47\)。&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">最近在念托福，快要二戰了。 寫個高中數學，放鬆一下。 今天看到的跟上一篇一樣，都是台大資工2008，而且也是問餘數。</summary></entry></feed>
