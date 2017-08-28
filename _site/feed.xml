@@ -1,4 +1,86 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-08-15T13:18:58-04:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">嗨，我是謝松霖&lt;br /&gt; Hi, I’m Sung-Lin Hsieh</title><subtitle>Too stupid to remember things.</subtitle><entry><title type="html">滷肉飯</title><link href="https://sunglinhsieh.github.io//soy-sauce-stew/" rel="alternate" type="text/html" title="滷肉飯" /><published>2017-08-15T00:00:00-04:00</published><updated>2017-08-15T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//soy-sauce-stew</id><content type="html" xml:base="https://sunglinhsieh.github.io//soy-sauce-stew/">&lt;h1 id=&quot;材料&quot;&gt;材料&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-08-28T11:41:23-04:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">嗨，我是謝松霖&lt;br /&gt; Hi, I’m Sung-Lin Hsieh</title><subtitle>Too stupid to remember things.</subtitle><entry><title type="html">醉雞</title><link href="https://sunglinhsieh.github.io//wine-chicken/" rel="alternate" type="text/html" title="醉雞" /><published>2017-08-28T00:00:00-04:00</published><updated>2017-08-28T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//wine-chicken</id><content type="html" xml:base="https://sunglinhsieh.github.io//wine-chicken/">&lt;h1 id=&quot;材料&quot;&gt;材料&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;材料&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Ingredients&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;數目&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;雞腿肉&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Chicken Thigh&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;錫箔紙&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Foil&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;錫箔紙&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Shaoxing Wine&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;400 ml&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;水&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Water&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;300 ml&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;當歸&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Angelica sinensis&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;一片&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;薑片&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ginger Slice&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;數片&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;枸杞&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Lycium Chinense&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;數匙&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;鹽&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Salt&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&quot;步驟&quot;&gt;步驟&lt;/h1&gt;
+
+&lt;h2 id=&quot;煮雞肉&quot;&gt;煮雞肉&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;首先我們需要帶皮去骨的雞腿肉，不過在美國我還沒看過帶皮去骨的雞腿肉。如果要去骨的話可以參照&lt;a href=&quot;http://lindawu122470.pixnet.net/blog/post/207562132&quot;&gt;這裡&lt;/a&gt;，如果不需要去骨的話大概可以省掉一半的功夫。&lt;/li&gt;
+  &lt;li&gt;把無骨雞腿肉放在錫箔紙上，皮朝下，在肉的那一側抹上一點鹽撒上一點紹興酒，然後把它捲起來，把兩端捲起來，像包糖果那樣。&lt;/li&gt;
+  &lt;li&gt;水滾後放入包好的雞腿捲，然後轉小火，讓水變成剛好滾的狀態(不要大滾)，讓他煮個20~30分鐘。可以煮久一點沒關係，只要火不要太大雞肉就不太會變柴。&lt;/li&gt;
+  &lt;li&gt;煮好之後把雞肉拿出來泡冷水。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;醃雞肉&quot;&gt;醃雞肉&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;把第二部分的材料放在要醃的容器內，放進去之前可煮可不煮。&lt;/li&gt;
+  &lt;li&gt;可以把煮雞肉的水加一點進去醃料。&lt;/li&gt;
+  &lt;li&gt;紹興酒跟其他的醃料大概1:1，加進去醃料。&lt;/li&gt;
+  &lt;li&gt;放冰箱一天之後就可以吃了。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://sunglinhsieh.github.io//assets/postimg/2017.08.28/wine.chicken.jpg&quot; alt=&quot;Wine Chicken&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;參考資料&quot;&gt;參考資料&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=61-rHUyABUw&quot;&gt;【1mintips】不失敗醉雞做法-楊桃美食網&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lindawu122470.pixnet.net/blog/post/207562132&quot;&gt;【電鍋食譜】紹興醉雞（簡單快速雞腿去骨法） @ 琳達公主的廚房筆記&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="food" /><category term="chicken" /><summary type="html">醉雞</summary></entry><entry><title type="html">滷肉飯</title><link href="https://sunglinhsieh.github.io//soy-sauce-stew/" rel="alternate" type="text/html" title="滷肉飯" /><published>2017-08-15T00:00:00-04:00</published><updated>2017-08-15T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//soy-sauce-stew</id><content type="html" xml:base="https://sunglinhsieh.github.io//soy-sauce-stew/">&lt;h1 id=&quot;材料&quot;&gt;材料&lt;/h1&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -394,53 +476,4 @@ B_n=\frac{2}{n\pi c}\int^L_0 g(x)\sin(\frac{n\pi}{L}x)dx
 =&amp;amp;(a^{\frac{2}{3}}+b^{\frac{2}{3}})^{\frac{3}{2}}
 \end{align}
 \]
-即為所求。&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">今天分享一題很奇妙的題目跟很誇張的解法， 是台大物理2005年的題目。</summary></entry><entry><title type="html">高中數學推甄題 2008臺大資工</title><link href="https://sunglinhsieh.github.io//2008ntucsie.1/" rel="alternate" type="text/html" title="高中數學推甄題 2008臺大資工" /><published>2015-10-14T00:00:00-04:00</published><updated>2015-10-14T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//2008ntucsie.1</id><content type="html" xml:base="https://sunglinhsieh.github.io//2008ntucsie.1/">&lt;p&gt;最近在念托福，快要二戰了。&lt;/p&gt;
-
-&lt;p&gt;寫個高中數學，放鬆一下。&lt;/p&gt;
-
-&lt;p&gt;今天看到的跟上一篇一樣，都是台大資工2008，而且也是問餘數。&lt;/p&gt;
-
-&lt;p&gt;題目是問：求\([(\sqrt{23}+\sqrt{27})^{100}]\)除以100之餘數為何?&lt;/p&gt;
-
-&lt;h2 id=&quot;台大資工-2008&quot;&gt;台大資工 2008&lt;/h2&gt;
-
-&lt;p&gt;\[ [(\sqrt{23}+\sqrt{27})^{100}] \mod 100 =?
-\]
-令\(a=\sqrt{27}+\sqrt{23}\)，\(b=\sqrt{27}-\sqrt{23}\)。其中\(b=\frac{4}{\sqrt{27}+\sqrt{23}}\in (0,1)\)。
-而且，
-\[
-\begin{align}
-	  &amp;amp; a^{100}+b^{100}\\
-	= &amp;amp; \sum_{k=0}^{100}{100 \choose k} \sqrt{27}^k\sqrt{23}^{100-k}+ {100 \choose k}\sqrt{27}^k(-\sqrt{23})^{100-k}\\
-	= &amp;amp; 2\sum_{k=0}^{50} {100 \choose 2k}27^k \cdot 23^{50-k} 
-\end{align}
-\]
-為整數。因此，原式\([a^{100}]=a^{100}+b^{100}-1\)。&lt;/p&gt;
-
-&lt;p&gt;但其實這樣還是並不好解。因此，我們展開的對象改成\((a^2)^{50}+(b^2)^{50}\)。所以變成
-\[
-\begin{align}
-	&amp;amp; (a^2)^{50}+(b^2)^{50} \\
-	= &amp;amp; (50+6\sqrt{69})^{50}+(50-6\sqrt{69})^{50}\\
-	= &amp;amp; \sum_{k=0}^{50}{50 \choose k} 50^k(6\sqrt{69})^{50-k} +{50 \choose k} 50^k(-6\sqrt{69})^{50-k}\\
-	= &amp;amp; 2\sum_{k=0}^{25}{50 \choose 2k} 50^{2k}(6\sqrt{69})^{50-2k}\\
-	= &amp;amp; 2\sum_{k=0}^{25}{50 \choose 2k} 2500^k\cdot 2484^{25-k}
-\end{align}
-\]
-如此一來就明朗多了。&lt;/p&gt;
-
-&lt;p&gt;最後，再取\(\mod 100\)，
-\[
-\begin{align}
-	&amp;amp; (a^2)^{50}+(b^2)^{50} \mod 100\\
-	= &amp;amp; 2\sum_{k=0}^{25}{50 \choose 2k} 2500^k\cdot 2484^{25-k} \mod 100 \\
-	= &amp;amp; 2\cdot 2484^{25} \mod 100 \\
-	= &amp;amp; 2\cdot (-16)^{25} \mod 100 \\
-	= &amp;amp; - 2^{101} \mod 100 \\
-	= &amp;amp; -2 \cdot 24^{10} \mod 100\\
-	= &amp;amp; -2 \cdot 76^5 \mod 100\\
-	= &amp;amp; -2 \cdot 76 \mod 100\\
-	= &amp;amp; 48
-\end{align}
-\]
-最後別忘了原式\([a^{100}]\mod 100 =a^{100}+b^{100}-1 \mod 100=47\)。&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">最近在念托福，快要二戰了。 寫個高中數學，放鬆一下。 今天看到的跟上一篇一樣，都是台大資工2008，而且也是問餘數。</summary></entry></feed>
+即為所求。&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">今天分享一題很奇妙的題目跟很誇張的解法， 是台大物理2005年的題目。</summary></entry></feed>
