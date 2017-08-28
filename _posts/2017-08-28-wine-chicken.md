@@ -2,7 +2,7 @@
 layout: post
 title:  "醉雞"
 date:   2017-08-28
-excerpt: "醉雞"
+excerpt: "簡單好吃不失敗醉雞"
 food: true
 tag:
 - food
