@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://sunglinhsieh.github.io//world.map.project/</loc>
+<lastmod>2018-01-16T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>https://sunglinhsieh.github.io//wine-chicken/</loc>
 <lastmod>2017-08-28T00:00:00-04:00</lastmod>
 </url>
@@ -72,22 +76,22 @@
 <loc>https://sunglinhsieh.github.io//404</loc>
 </url>
 <url>
-<loc>https://sunglinhsieh.github.io//</loc>
-</url>
-<url>
 <loc>https://sunglinhsieh.github.io//tags/</loc>
 </url>
 <url>
-<loc>https://sunglinhsieh.github.io//about/</loc>
+<loc>https://sunglinhsieh.github.io//</loc>
 </url>
 <url>
-<loc>https://sunglinhsieh.github.io//projects/</loc>
+<loc>https://sunglinhsieh.github.io//posts/</loc>
 </url>
 <url>
 <loc>https://sunglinhsieh.github.io//food/</loc>
 </url>
 <url>
-<loc>https://sunglinhsieh.github.io//posts/</loc>
+<loc>https://sunglinhsieh.github.io//projects/</loc>
+</url>
+<url>
+<loc>https://sunglinhsieh.github.io//about/</loc>
 </url>
 <url>
 <loc>https://sunglinhsieh.github.io//assets/files/mascolell.sol.ch1.pdf</loc>

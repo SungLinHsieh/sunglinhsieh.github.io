@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2017-08-28T11:42:59-04:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">嗨，我是謝松霖&lt;br /&gt; Hi, I’m Sung-Lin Hsieh</title><subtitle>Too stupid to remember things.</subtitle><entry><title type="html">醉雞</title><link href="https://sunglinhsieh.github.io//wine-chicken/" rel="alternate" type="text/html" title="醉雞" /><published>2017-08-28T00:00:00-04:00</published><updated>2017-08-28T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//wine-chicken</id><content type="html" xml:base="https://sunglinhsieh.github.io//wine-chicken/">&lt;h1 id=&quot;材料&quot;&gt;材料&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sunglinhsieh.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sunglinhsieh.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://sunglinhsieh.github.io//" rel="alternate" type="text/html" /><updated>2018-01-16T13:43:52-05:00</updated><id>https://sunglinhsieh.github.io//</id><title type="html">嗨，我是謝松霖&lt;br /&gt; Hi, I’m Sung-Lin Hsieh</title><subtitle>Too stupid to remember things.</subtitle><entry><title type="html">Idea about World Map</title><link href="https://sunglinhsieh.github.io//world.map.project/" rel="alternate" type="text/html" title="Idea about World Map" /><published>2018-01-16T00:00:00-05:00</published><updated>2018-01-16T00:00:00-05:00</updated><id>https://sunglinhsieh.github.io//world.map.project</id><content type="html" xml:base="https://sunglinhsieh.github.io//world.map.project/">&lt;p&gt;I’m thinking about finding a python module to vidualize the countries and the cities which I have been to.&lt;/p&gt;</content><category term="Python" /><summary type="html">A Python or Javascript project</summary></entry><entry><title type="html">醉雞</title><link href="https://sunglinhsieh.github.io//wine-chicken/" rel="alternate" type="text/html" title="醉雞" /><published>2017-08-28T00:00:00-04:00</published><updated>2017-08-28T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//wine-chicken</id><content type="html" xml:base="https://sunglinhsieh.github.io//wine-chicken/">&lt;h1 id=&quot;材料&quot;&gt;材料&lt;/h1&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -404,76 +404,4 @@ B_n=\frac{2}{n\pi c}\int^L_0 g(x)\sin(\frac{n\pi}{L}x)dx
 &lt;img src=&quot;https://sunglinhsieh.github.io//assets/postimg/2016.05.04/ex.3.f.png&quot; alt=&quot;example 3 f&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;而最後的成品如下：
-&lt;img src=&quot;https://sunglinhsieh.github.io//assets/postimg/2016.05.04/ex.3.gif&quot; alt=&quot;example 3 gif&quot; /&gt;&lt;/p&gt;</content><category term="math" /><summary type="html">推導之後再補上，先講結論。</summary></entry><entry><title type="html">高中數學推甄題 2005臺大物理</title><link href="https://sunglinhsieh.github.io//2005ntuphy/" rel="alternate" type="text/html" title="高中數學推甄題 2005臺大物理" /><published>2015-10-26T00:00:00-04:00</published><updated>2015-10-26T00:00:00-04:00</updated><id>https://sunglinhsieh.github.io//2005ntuphy</id><content type="html" xml:base="https://sunglinhsieh.github.io//2005ntuphy/">&lt;p&gt;今天分享一題很奇妙的題目跟很誇張的解法，
-是台大物理2005年的題目。&lt;/p&gt;
-
-&lt;p&gt;當\(0 &amp;lt; x &amp;lt; \frac{\pi}{2}\)時，
-求\(\frac{2}{\sin x} + \frac{3}{\cos x}\)的最小值。&lt;/p&gt;
-
-&lt;p&gt;這題可怕的地方是，看起來就一臉柯西樣，但怎麼用都用不出來。
-最後我是在大陸的論壇上看到這個解法。&lt;/p&gt;
-
-&lt;h2 id=&quot;台大物理-2005&quot;&gt;台大物理 2005&lt;/h2&gt;
-
-&lt;p&gt;當\(0&amp;lt;x&amp;lt;\frac{\pi}{2}\)時，求\(\frac{2}{\sin x}+\frac{3}{\cos x}\)的最小值。&lt;/p&gt;
-
-&lt;p&gt;令\(k&amp;gt;0\)為待定係數。 則原式可以寫成
-\[
-\frac{1}{\sin x}+\frac{1}{\sin x}+k\sin^2 x+\frac{\frac{3}{2}}{\cos x}+\frac{\frac{3}{2}}{\cos x}+k \cos^2 x-k
-\]
-因此，我們就可以用算幾不等式得到
-\[
-\begin{align}
-	&amp;amp; \frac{1}{\sin x}+\frac{1}{\sin x}+k\sin^2 x+\frac{\frac{3}{2}}{\cos x}+\frac{\frac{3}{2}}{\cos x}+k \cos^2 x-k&lt;br /&gt;
-	\geq &amp;amp; 3 k^{\frac{1}{3}}+3 (\frac{3}{2})^{\frac{2}{3}}k^{\frac{1}{3}}-k
-\end{align}
-\]
-然而，而這裡的重點是，若等號要成立，我們必須要讓兩個算幾不等式都滿足，因此我們的\(k\)要滿足
-\[
-\begin{align}
-	k^{\frac{-1}{3}}&amp;amp;=\sin x\\
-	k^{\frac{-1}{3}}&amp;amp;=(\frac{3}{2})^{\frac{-1}{3}}\cos x
-\end{align}
-\]
-可以算出\(k=(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{3}{2}}\)，再代回\(\sin x,\cos x\)可以得到
-\[
-\begin{align}
-	\sin x &amp;amp;=(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{-1}{2}} \\
-	\cos x &amp;amp;=(\frac{2}{3})^{\frac{-1}{3}}(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{-1}{2}}
-\end{align}
-\]
-極值便等於
-\[
-\begin{align}
-	&amp;amp; \frac{2}{\sin x}+\frac{3}{\cos x}\\
-	=&amp;amp; 2 (1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{1}{2}}+ 3(\frac{2}{3})^{\frac{1}{3}}(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{1}{2}}\\
-	=&amp;amp; (2+ 2^{\frac{1}{3}}3^{\frac{2}{3}})\cdot(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{1}{2}}\\
-	=&amp;amp; (2^\frac{2}{3}+3^{\frac{2}{3}})\cdot 2^{\frac{1}{3}}\cdot(1+(\frac{3}{2})^{\frac{2}{3}})^{\frac{1}{2}}\\
-	=&amp;amp; (2^\frac{2}{3}+3^{\frac{2}{3}})\cdot (2^\frac{2}{3}+3^{\frac{2}{3}})^{\frac{1}{2}}\\
-	= &amp;amp; (2^\frac{2}{3}+3^{\frac{2}{3}})^{\frac{3}{2}}
-\end{align}
-\]
-用一樣的推論，給定\(a,b &amp;gt;0\)時，
-\[
-\min_x [\frac{a}{\sin x}+\frac{b}{\cos x}]=(a^{\frac{2}{3}}+b^{\frac{2}{3}})^{\frac{3}{2}}
-\]&lt;/p&gt;
-
-&lt;h3 id=&quot;用微積分驗證答案&quot;&gt;用微積分驗證答案&lt;/h3&gt;
-
-&lt;p&gt;原式對\(x\)微分可以得到
-\[
--\frac{a \cos x}{\sin^2 x}+\frac{b\sin x}{\cos^2 x}
-\]
-令其等於 \(0\)，可以解出\(\tan^3 x=\frac{a}{b}\)，
-\(\sin x=(1+(\frac{b}{a})^\frac{2}{3})^\frac{-1}{2}\)，
-\(\cos x=(1+(\frac{a}{b})^\frac{2}{3})^\frac{-1}{2} \)。&lt;/p&gt;
-
-&lt;p&gt;因此，
-\[
-\begin{align}
-&amp;amp; \min_x [\frac{a}{\sin x}+\frac{b}{\cos x}]\\
-=&amp;amp; a^\frac{2}{3}(a^{\frac{2}{3}}+b^{\frac{2}{3}})^\frac{1}{2}+b^\frac{2}{3}(a^{\frac{2}{3}}+b^{\frac{2}{3}})^\frac{1}{2}\\
-=&amp;amp;(a^{\frac{2}{3}}+b^{\frac{2}{3}})^{\frac{3}{2}}
-\end{align}
-\]
-即為所求。&lt;/p&gt;</content><category term="math" /><category term="high school" /><summary type="html">今天分享一題很奇妙的題目跟很誇張的解法， 是台大物理2005年的題目。</summary></entry></feed>
+&lt;img src=&quot;https://sunglinhsieh.github.io//assets/postimg/2016.05.04/ex.3.gif&quot; alt=&quot;example 3 gif&quot; /&gt;&lt;/p&gt;</content><category term="math" /><summary type="html">推導之後再補上，先講結論。</summary></entry></feed>
